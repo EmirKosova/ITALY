@@ -178,12 +178,6 @@ http://skyhd-iptv.com:2095/sarandetv/MuyGXoytPN/357
 http://skyhd-iptv.com:2095/sarandetv/MuyGXoytPN/376
 #EXTINF:0 group-title="[AL]MUZIKE",[$]Syri Blue HD
 http://skyhd-iptv.com:2095/sarandetv/MuyGXoytPN/342
-#EXTINF:0 group-title="[AL]MUZIKE",[$]TV Tetova
-http://skyhd-iptv.com:2095/sarandetv/MuyGXoytPN/346
-#EXTINF:0 group-title="[AL]MUZIKE",[$]TV Saranda
-http://skyhd-iptv.com:2095/sarandetv/MuyGXoytPN/347
-#EXTINF:0 group-title="[AL]MUZIKE",[$]TV Opoja
-http://skyhd-iptv.com:2095/sarandetv/MuyGXoytPN/348
 #EXTINF:0 group-title="[AL]MUZIKE",[$]Melody TV
 http://skyhd-iptv.com:2095/sarandetv/MuyGXoytPN/281
 #EXTINF:0 group-title="[AL]MUZIKE",[$]BBF Music
@@ -234,8 +228,6 @@ http://93.15.62.180/TVFontana/index.m3u8?token=tv
 http://84.22.33.254/unicast.turbo/index.m3u8?token=tv
 #EXTINF:-1 group-title="[AL]MUZIKE",[$]ZICO TV  
 http://84.22.33.254/unicast.zicotv/index.m3u8?token=tv
-#EXTINF:-1 group-title="[AL]MUZIKE",[$]ART MEDIA+ HD 
-http://195.154.252.221:8000/play/artmediaweb/index.m3u8
 #EXTINF:-1 group-title="[AL]MUZIKE",[$]FRAME TV 
 http://195.154.252.221:8000/play/a002/index.m3u8
 #EXTINF:0 group-title="[AL]MUZIKE",[$]TV LIRIA 
@@ -559,20 +551,43 @@ http://srb.00387.info/c7/index.m3u8?token=test
 #EXTINF:0 group-title="[AL]POP CORN",[$]CINEMACIOUS 8HD
 http://srb.00387.info/c8/index.m3u8?token=test
 
-#EXTINF:0 group-title="[AL]SPORTE SHQIPTARE",[$]SUPER SPORT 1FHD
+#EXTINF:0 group-title="[AL]SPORTE SHQIPTARE(VIP)",[$]SUPER SPORT 1HD
 http://93.157.62.180/Supersport1/index.m3u8|User-Agent=stream
-#EXTINF:0 group-title="[AL]SPORTE SHQIPTARE",[$]SUPER SPORT 2FHD
+#EXTINF:0 group-title="[AL]SPORTE SHQIPTARE(VIP)",[$]SUPER SPORT 2HD
 http://93.157.62.180/Supersport2/index.m3u8|User-Agent=stream
-#EXTINF:0 group-title="[AL]SPORTE SHQIPTARE",[$]SUPER SPORT 3FHD
+#EXTINF:0 group-title="[AL]SPORTE SHQIPTARE(VIP)",[$]SUPER SPORT 3HD
 http://93.157.62.180/Supersport3/index.m3u8|User-Agent=stream
-#EXTINF:0 group-title="[AL]SPORTE SHQIPTARE",[$]SUPER SPORT 4FHD
+#EXTINF:0 group-title="[AL]SPORTE SHQIPTARE(VIP)",[$]SUPER SPORT 4HD
 http://93.157.62.180/Supersport4/index.m3u8|User-Agent=stream
-#EXTINF:0 group-title="[AL]SPORTE SHQIPTARE",[$]SUPER SPORT 5FHD
+#EXTINF:0 group-title="[AL]SPORTE SHQIPTARE(VIP)",[$]SUPER SPORT 5HD
 http://93.157.62.180/Supersport5/index.m3u8|User-Agent=stream
-#EXTINF:0 group-title="[AL]SPORTE SHQIPTARE",[$]SUPER SPORT 6FHD
+#EXTINF:0 group-title="[AL]SPORTE SHQIPTARE(VIP)",[$]SUPER SPORT 6HD
 http://93.157.62.180/Supersport6/index.m3u8|User-Agent=stream
-#EXTINF:0 group-title="[AL]SPORTE SHQIPTARE",[$]SUPER SPORT 7FHD
+#EXTINF:0 group-title="[AL]SPORTE SHQIPTARE(VIP)",[$]SUPER SPORT 7HD
 http://93.157.62.180/Supersport7/index.m3u8|User-Agent=stream
+#EXTINF:0 group-title="[AL]SPORTE SHQIPTARE(VIP)",[$]K Sport 1HD
+http://93.157.62.180/KSport1/index.m3u8|User-Agent=stream
+#EXTINF:0 group-title="[AL]SPORTE SHQIPTARE(VIP)",[$]K Sport 2HD
+http://93.157.62.180/KSport2/index.m3u8|User-Agent=stream
+#EXTINF:0 group-title="[AL]SPORTE SHQIPTARE(VIP)",[$]K Sport 3HD
+http://93.157.62.180/KSport3/index.m3u8|User-Agent=stream
+#EXTINF:0 group-title="[AL]SPORTE SHQIPTARE(VIP)",[$]K Sport 4HD
+http://93.157.62.180/KSport4/index.m3u8|User-Agent=stream
+#EXTINF:0 group-title="[AL]SPORTE SHQIPTARE(VIP)",[$]T SPORT NEWS HD
+http://84.22.33.254/unicast.tringsportnews/mpegts?token=tv
+#EXTINF:0 group-title="[AL]SPORTE SHQIPTARE(VIP)",[$]T SPORT 1HD
+http://93.157.62.180/TringSport1HD/index.m3u8|User-Agent=stream
+#EXTINF:0 group-title="[AL]SPORTE SHQIPTARE(VIP)",[$]T SPORT 2HD
+http://93.157.62.180/TringSport2HD/index.m3u8|User-Agent=stream
+#EXTINF:0 group-title="[AL]SPORTE SHQIPTARE(VIP)",[$]T SPORT 3HD
+http://93.157.62.180/TringSport3HD/index.m3u8|User-Agent=stream
+#EXTINF:0 group-title="[AL]SPORTE SHQIPTARE(VIP)",[$]ART SPORT 1HD
+http://93.157.62.180/ArtSport1/index.m3u8|User-Agent=stream
+#EXTINF:0 group-title="[AL]SPORTE SHQIPTARE(VIP)",[$]ART SPORT 2HD
+http://93.157.62.180/ArtSport2/index.m3u8|User-Agent=stream
+#EXTINF:0 group-title="[AL]SPORTE SHQIPTARE(VIP)",[$]ART SPORT 3HD
+http://93.157.62.180/ArtSport3/index.m3u8|User-Agent=stream
+
 #EXTINF:0 group-title="[AL]SPORTE SHQIPTARE",[$]Super Sport 1HD
 http://skyhd-iptv.com:2095/sarandetv/MuyGXoytPN/420
 #EXTINF:0 group-title="[AL]SPORTE SHQIPTARE",[$]Super Sport 2HD
@@ -617,14 +632,6 @@ http://skyhd-iptv.com:2095/sarandetv/MuyGXoytPN/412
 http://skyhd-iptv.com:2095/sarandetv/MuyGXoytPN/411
 #EXTINF:0 group-title="[AL]SPORTE SHQIPTARE",[$]Kujtesa Sport 4HD
 http://skyhd-iptv.com:2095/sarandetv/MuyGXoytPN/410
-#EXTINF:0 group-title="[AL]SPORTE SHQIPTARE",[$]K Sport 1HD
-http://93.157.62.180/KSport1/index.m3u8|User-Agent=stream
-#EXTINF:0 group-title="[AL]SPORTE SHQIPTARE",[$]K Sport 2HD
-http://93.157.62.180/KSport2/index.m3u8|User-Agent=stream
-#EXTINF:0 group-title="[AL]SPORTE SHQIPTARE",[$]K Sport 3HD
-http://93.157.62.180/KSport3/index.m3u8|User-Agent=stream
-#EXTINF:0 group-title="[AL]SPORTE SHQIPTARE",[$]K Sport 4HD
-http://93.157.62.180/KSport4/index.m3u8|User-Agent=stream
 #EXTINF:0 group-title="[AL]SPORTE SHQIPTARE",[$]Tring Sport News HD
 http://skyhd-iptv.com:2095/sarandetv/MuyGXoytPN/395
 #EXTINF:0 group-title="[AL]SPORTE SHQIPTARE",[$]Tring Sport 1 HD
@@ -635,22 +642,8 @@ http://skyhd-iptv.com:2095/sarandetv/MuyGXoytPN/398
 http://skyhd-iptv.com:2095/sarandetv/MuyGXoytPN/397
 #EXTINF:0 group-title="[AL]SPORTE SHQIPTARE",[$]Tring Sport 4 HD
 http://skyhd-iptv.com:2095/sarandetv/MuyGXoytPN/396
-#EXTINF:0 group-title="[AL]SPORTE SHQIPTARE",[$]T SPORT NEWS HD
-http://84.22.33.254/unicast.tringsportnews/mpegts?token=tv
-#EXTINF:0 group-title="[AL]SPORTE SHQIPTARE",[$]T SPORT 1HD
-http://93.157.62.180/TringSport1HD/index.m3u8|User-Agent=stream
-#EXTINF:0 group-title="[AL]SPORTE SHQIPTARE",[$]T SPORT 2HD
-http://93.157.62.180/TringSport2HD/index.m3u8|User-Agent=stream
-#EXTINF:0 group-title="[AL]SPORTE SHQIPTARE",[$]T SPORT 3HD
-http://93.157.62.180/TringSport3HD/index.m3u8|User-Agent=stream
 #EXTINF:0 group-title="[AL]SPORTE SHQIPTARE",[$]Rtsh Sport
 http://skyhd-iptv.com:2095/sarandetv/MuyGXoytPN/409
-#EXTINF:0 group-title="[AL]SPORTE SHQIPTARE",[$]ART SPORT 1HD
-http://93.157.62.180/ArtSport1/index.m3u8|User-Agent=stream
-#EXTINF:0 group-title="[AL]SPORTE SHQIPTARE",[$]ART SPORT 2HD
-http://93.157.62.180/ArtSport2/index.m3u8|User-Agent=stream
-#EXTINF:0 group-title="[AL]SPORTE SHQIPTARE",[$]ART SPORT 3HD
-http://93.157.62.180/ArtSport3/index.m3u8|User-Agent=stream
 #EXTINF:0 group-title="[AL]SPORTE SHQIPTARE",[$]SMASH SPORT HD 
 http://s3.smashmalta.com:82/live/smash/smash/18.ts 
 
@@ -976,7 +969,7 @@ http://skyhd-iptv.com:2095/sarandetv/MuyGXoytPN/873
 http://skyhd-iptv.com:2095/sarandetv/MuyGXoytPN/876
 #EXTINF:0 group-title="[AL]SPORTE ANGLEZE",[$]Sky Sports Cricket HD
 http://skyhd-iptv.com:2095/sarandetv/MuyGXoytPN/877
-#EXTINF:0 group-title="[AL]SPORTE ANGLEZE",[$]BT Sport ESPN
+#EXTINF:0 group-title="[AL]SPORTE ANGLEZE",[$]BT Sport ESPN HD
 http://skyhd-iptv.com:2095/sarandetv/MuyGXoytPN/909
 #EXTINF:0 group-title="[AL]SPORTE ANGLEZE",[$]BT Sport 1 HD
 http://skyhd-iptv.com:2095/sarandetv/MuyGXoytPN/911
@@ -1074,11 +1067,11 @@ http://skyhd-iptv.com:2095/sarandetv/MuyGXoytPN/957
 http://skyhd-iptv.com:2095/sarandetv/MuyGXoytPN/963
 #EXTINF:0 group-title="[AL]SPORTE FRANCEZE",[$]EUROSPORT 2 HD
 http://skyhd-iptv.com:2095/sarandetv/MuyGXoytPN/962
-#EXTINF:0 group-title="[AL]SPORTE FRANCEZE",[$]GOLF CHANNEL
+#EXTINF:0 group-title="[AL]SPORTE FRANCEZE",[$]GOLF CHANNEL HD
 http://skyhd-iptv.com:2095/sarandetv/MuyGXoytPN/960
-#EXTINF:0 group-title="[AL]SPORTE FRANCEZE",[$]FOOT  24
+#EXTINF:0 group-title="[AL]SPORTE FRANCEZE",[$]FOOT  24HD
 http://skyhd-iptv.com:2095/sarandetv/MuyGXoytPN/961
-#EXTINF:0 group-title="[AL]SPORTE FRANCEZE",[$]CANAL SPORT
+#EXTINF:0 group-title="[AL]SPORTE FRANCEZE",[$]CANAL SPORT HD
 http://skyhd-iptv.com:2095/sarandetv/MuyGXoytPN/964
 
 #EXTINF:0 group-title="[AL]SPORTE SPANJOLLE",[$]Movistar Liga De Campeones
@@ -1155,38 +1148,44 @@ http://136.243.177.164/EUROSPORT/index.m3u8?token=test
 #EXTINF:-1 group-title="[BG]SPORTE BULLGARE",[$]EUROSPORT 2HD 
 http://136.243.177.164/EUROSPORT2/index.m3u8?token=test
 
-#EXTINF:0 group-title="[AL]SPORTE PORTUGEZE",[$]SPORT TV 1 FHD
+#EXTINF:0 group-title="[PT]SPORTE PORTUGEZE",[$]SPORT TV 1 FHD
 http://skyhd-iptv.com:2095/sarandetv/MuyGXoytPN/1089
-#EXTINF:0 group-title="[AL]SPORTE PORTUGEZE",[$]SPORT TV 2 FHD
+#EXTINF:0 group-title="[PT]SPORTE PORTUGEZE",[$]SPORT TV 2 FHD
 http://skyhd-iptv.com:2095/sarandetv/MuyGXoytPN/1088
-#EXTINF:0 group-title="[AL]SPORTE PORTUGEZE",[$]SPORT TV 3 FHD
+#EXTINF:0 group-title="[PT]SPORTE PORTUGEZE",[$]SPORT TV 3 FHD
 http://skyhd-iptv.com:2095/sarandetv/MuyGXoytPN/1087
-#EXTINF:0 group-title="[AL]SPORTE PORTUGEZE",[$]SPORT TV 4 FHD
+#EXTINF:0 group-title="[PT]SPORTE PORTUGEZE",[$]SPORT TV 4 FHD
 http://skyhd-iptv.com:2095/sarandetv/MuyGXoytPN/1086
-#EXTINF:0 group-title="[AL]SPORTE PORTUGEZE",[$]SPORT TV 5 FHD
+#EXTINF:0 group-title="[PT]SPORTE PORTUGEZE",[$]SPORT TV 5 FHD
 http://skyhd-iptv.com:2095/sarandetv/MuyGXoytPN/1085
-#EXTINF:0 group-title="[AL]SPORTE PORTUGEZE",[$]Eleven Sport 1 HD
+#EXTINF:0 group-title="[PT]SPORTE PORTUGEZE",[$]Eleven Sport 1 HD
 http://skyhd-iptv.com:2095/sarandetv/MuyGXoytPN/17506
-#EXTINF:0 group-title="[AL]SPORTE PORTUGEZE",[$]Eleven Sport 2 HD
+#EXTINF:0 group-title="[PT]SPORTE PORTUGEZE",[$]Eleven Sport 2 HD
 http://skyhd-iptv.com:2095/sarandetv/MuyGXoytPN/17507
-#EXTINF:0 group-title="[AL]SPORTE PORTUGEZE",[$]Eleven Sport 3 HD
+#EXTINF:0 group-title="[PT]SPORTE PORTUGEZE",[$]Eleven Sport 3 HD
 http://skyhd-iptv.com:2095/sarandetv/MuyGXoytPN/17508
-#EXTINF:0 group-title="[AL]SPORTE PORTUGEZE",[$]Eleven Sport 4 HD
+#EXTINF:0 group-title="[PT]SPORTE PORTUGEZE",[$]Eleven Sport 4 HD
 http://skyhd-iptv.com:2095/sarandetv/MuyGXoytPN/17509
-#EXTINF:0 group-title="[AL]SPORTE PORTUGEZE",[$]Eleven Sport 5 HD
+#EXTINF:0 group-title="[PT]SPORTE PORTUGEZE",[$]Eleven Sport 5 HD
 http://skyhd-iptv.com:2095/sarandetv/MuyGXoytPN/17510
-#EXTINF:0 group-title="[AL]SPORTE PORTUGEZE",[$]Eleven Sport 6 HD
+#EXTINF:0 group-title="[PT]SPORTE PORTUGEZE",[$]Eleven Sport 6 HD
 http://skyhd-iptv.com:2095/sarandetv/MuyGXoytPN/17511
 
-#EXTINF:0 group-title="[AL]SPORTE KROATE",[$]Arena Sport 1HD
+#EXTINF:0 group-title="[SR]SPORTE SERBE",[$]SPORT KLUB 1HD
+http://93.157.62.180/SK1HD/index.m3u8|User-Agent=stream
+#EXTINF:0 group-title="[SR]SPORTE SERBE",[$]SPORT KLUB 2HD
+http://93.157.62.180/SK2HD/index.m3u8|User-Agent=stream
+#EXTINF:0 group-title="[SR]SPORTE SERBE",[$]SPORT KLUB 3HD
+http://93.157.62.180/SK3HD/index.m3u8|User-Agent=stream
+#EXTINF:0 group-title="[SR]SPORTE KROATE",[$]Arena Sport 1HD
 http://skyhd-iptv.com:2095/sarandetv/MuyGXoytPN/750
-#EXTINF:0 group-title="[AL]SPORTE KROATE",[$]Arena Sport 2HD
+#EXTINF:0 group-title="[SR]SPORTE KROATE",[$]Arena Sport 2HD
 http://skyhd-iptv.com:2095/sarandetv/MuyGXoytPN/748
-#EXTINF:0 group-title="[AL]SPORTE KROATE",[$]Arena Sport 3HD
+#EXTINF:0 group-title="[SR]SPORTE KROATE",[$]Arena Sport 3HD
 http://skyhd-iptv.com:2095/sarandetv/MuyGXoytPN/746
-#EXTINF:0 group-title="[AL]SPORTE KROATE",[$]Arena Sport 4HD
+#EXTINF:0 group-title="[SR]SPORTE KROATE",[$]Arena Sport 4HD
 http://skyhd-iptv.com:2095/sarandetv/MuyGXoytPN/744
-#EXTINF:0 group-title="[AL]SPORTE KROATE",[$]Arena Sport 5HD
+#EXTINF:0 group-title="[SR]SPORTE KROATE",[$]Arena Sport 5HD
 http://skyhd-iptv.com:2095/sarandetv/MuyGXoytPN/742
 
 #EXTINF:0 group-title="[AL]SPORTE SERBE",[$]Arena Sport 1HD
@@ -1456,9 +1455,6 @@ http://skyhd-iptv.com:2095/sarandetv/MuyGXoytPN/549
 #EXTINF:0 group-title="[IT]KANALE ITALIANE",Sky TG24 HD
 #EXTVLCOPT:network-caching=1000
 http://skyhd-iptv.com:2095/sarandetv/MuyGXoytPN/553
-#EXTINF:0 group-title="[IT]KANALE ITALIANE"---Mediaset Premium---
-#EXTVLCOPT:network-caching=1000
-http://skyhd-iptv.com:2095/sarandetv/MuyGXoytPN/433
 #EXTINF:0 group-title="[IT]KANALE ITALIANE",Giallo
 #EXTVLCOPT:network-caching=1000
 http://skyhd-iptv.com:2095/sarandetv/MuyGXoytPN/499
@@ -1489,9 +1485,6 @@ http://skyhd-iptv.com:2095/sarandetv/MuyGXoytPN/490
 #EXTINF:0 group-title="[IT]KANALE ITALIANE",Paramount Channel HD
 #EXTVLCOPT:network-caching=1000
 http://skyhd-iptv.com:2095/sarandetv/MuyGXoytPN/480
-#EXTINF:0 group-title="[IT]KANALE ITALIANE"---Premium Cinema---
-#EXTVLCOPT:network-caching=1000
-http://skyhd-iptv.com:2095/sarandetv/MuyGXoytPN/432
 #EXTINF:0 group-title="[IT]KANALE ITALIANE",Premium Crime
 #EXTVLCOPT:network-caching=1000
 http://skyhd-iptv.com:2095/sarandetv/MuyGXoytPN/466
@@ -1507,9 +1500,6 @@ http://skyhd-iptv.com:2095/sarandetv/MuyGXoytPN/475
 #EXTINF:0 group-title="[IT]KANALE ITALIANE",Premium Stories HD
 #EXTVLCOPT:network-caching=1000
 http://skyhd-iptv.com:2095/sarandetv/MuyGXoytPN/1121
-#EXTINF:0 group-title="[IT]KANALE ITALIANE"---Cinema---
-#EXTVLCOPT:network-caching=1000
-http://skyhd-iptv.com:2095/sarandetv/MuyGXoytPN/435
 #EXTINF:0 group-title="[IT]KANALE ITALIANE",Sky Uno HD
 #EXTVLCOPT:network-caching=1000
 http://skyhd-iptv.com:2095/sarandetv/MuyGXoytPN/551
@@ -1528,9 +1518,6 @@ http://skyhd-iptv.com:2095/sarandetv/MuyGXoytPN/602
 #EXTINF:0 group-title="[IT]KANALE ITALIANE",Food Network
 #EXTVLCOPT:network-caching=1000
 http://skyhd-iptv.com:2095/sarandetv/MuyGXoytPN/599
-#EXTINF:0 group-title="[IT]KANALE ITALIANE"---Primafila---
-#EXTVLCOPT:network-caching=1000
-http://skyhd-iptv.com:2095/sarandetv/MuyGXoytPN/431
 #EXTINF:0 group-title="[IT]KANALE ITALIANE",Primafila 1 HD
 #EXTVLCOPT:network-caching=1000
 http://skyhd-iptv.com:2095/sarandetv/MuyGXoytPN/462
@@ -1561,9 +1548,6 @@ http://skyhd-iptv.com:2095/sarandetv/MuyGXoytPN/453
 #EXTINF:0 group-title="[IT]KANALE ITALIANE",Primafila 10 HD
 #EXTVLCOPT:network-caching=1000
 http://skyhd-iptv.com:2095/sarandetv/MuyGXoytPN/461
-#EXTINF:0 group-title="[IT]KANALE ITALIANE"--- Musica ---
-#EXTVLCOPT:network-caching=1000
-http://skyhd-iptv.com:2095/sarandetv/MuyGXoytPN/610
 #EXTINF:0 group-title="[IT]KANALE ITALIANE",Sky MTV
 #EXTVLCOPT:network-caching=1000
 http://skyhd-iptv.com:2095/sarandetv/MuyGXoytPN/554
@@ -1585,9 +1569,6 @@ http://skyhd-iptv.com:2095/sarandetv/MuyGXoytPN/508
 #EXTINF:0 group-title="[IT]KANALE ITALIANE",RTL 102.5
 #EXTVLCOPT:network-caching=1000
 http://skyhd-iptv.com:2095/sarandetv/MuyGXoytPN/446
-#EXTINF:0 group-title="[IT]KANALE ITALIANE"---Cultura---
-#EXTVLCOPT:network-caching=1000
-http://skyhd-iptv.com:2095/sarandetv/MuyGXoytPN/434
 #EXTINF:0 group-title="[IT]KANALE ITALIANE",Nove
 #EXTVLCOPT:network-caching=1000
 http://skyhd-iptv.com:2095/sarandetv/MuyGXoytPN/482
@@ -1600,9 +1581,6 @@ http://skyhd-iptv.com:2095/sarandetv/MuyGXoytPN/498
 #EXTINF:0 group-title="[IT]KANALE ITALIANE",Italian Fishing TV
 #EXTVLCOPT:network-caching=1000
 http://skyhd-iptv.com:2095/sarandetv/MuyGXoytPN/496
-#EXTINF:0 group-title="[IT]KANALE ITALIANE"---Bambini---
-#EXTVLCOPT:network-caching=1000
-http://skyhd-iptv.com:2095/sarandetv/MuyGXoytPN/436
 #EXTINF:0 group-title="[IT]KANALE ITALIANE",K2
 #EXTVLCOPT:network-caching=1000
 http://skyhd-iptv.com:2095/sarandetv/MuyGXoytPN/495
@@ -1645,8 +1623,6 @@ http://skyhd-iptv.com:2095/sarandetv/MuyGXoytPN/518
 #EXTINF:0 group-title="[IT]KANALE ITALIANE",Baby Tv
 #EXTVLCOPT:network-caching=1000
 http://skyhd-iptv.com:2095/sarandetv/MuyGXoytPN/520
-#EXTINF:0 group-title="[IT]KANALE ITALIANE",---SKY CINEMA---
-http://skyhd-iptv.com:2095/sarandetv/MuyGXoytPN/0001
 #EXTINF:0 group-title="[IT]KANALE ITALIANE",Sky Cinema Uno Full HD
 #EXTVLCOPT:network-caching=1000
 http://skyhd-iptv.com:2095/sarandetv/MuyGXoytPN/557
@@ -1707,7 +1683,7 @@ http://skyhd-iptv.com:2095/sarandetv/MuyGXoytPN/558
 
 #EXTINF:0 group-title="[UK]KANALE ANGLEZE",=== England ===
 #EXTVLCOPT:network-caching=1000
-http://skyhd-iptv.com:2095/sarandetv/MuyGXoytPN/920
+http://skyhd-iptv.com:2095/sarandetv.m3u8
 #EXTINF:0 group-title="[UK]KANALE ANGLEZE",BBC One
 #EXTVLCOPT:network-caching=1000
 http://skyhd-iptv.com:2095/sarandetv/MuyGXoytPN/913
@@ -2714,66 +2690,66 @@ https://tiny.gjirafa.com/api/media/gjvideo/yygtqq/1080/index.m3u8
 #EXTINF:-1 group-title="[KS]SERIALE(KOSOVARE)" tvg-logo="https://i.ibb.co/9GBHbKT/EGJ.jpg",[EGJELI] EP.80 [$]
 https://tiny.gjirafa.com/api/media/gjvideo/yyggzk/1080/index.m3u8
 
-#EXTINF:-1 group-title="[AL]SERIALE(TURKE)" tvg-logo="https://i.imgur.com/RmJU3kB.jpg",[ILK ASK] EP.1 [$]
+#EXTINF:-1 group-title="[AL]SERIALE(TURKE)" tvg-logo="https://i.imgur.com/RmJU3kB.jpg",[DASHURI E PARË] EP.1 [$]
 https://videos.files.wordpress.com/YkfvnbA2/ilkask1_mp4_dvd.mp4
-#EXTINF:-1 group-title="[AL]SERIALE(TURKE)" tvg-logo="https://i.imgur.com/RmJU3kB.jpg",[ILK ASK] EP.2 [$]
+#EXTINF:-1 group-title="[AL]SERIALE(TURKE)" tvg-logo="https://i.imgur.com/RmJU3kB.jpg",[DASHURI E PARË] EP.2 [$]
 https://videos.files.wordpress.com/XmZlQf8j/ilkask2-1_mp4_dvd.mp4
-#EXTINF:-1 group-title="[AL]SERIALE(TURKE)" tvg-logo="https://i.imgur.com/RmJU3kB.jpg",[ILK ASK] EP.3 [$]
+#EXTINF:-1 group-title="[AL]SERIALE(TURKE)" tvg-logo="https://i.imgur.com/RmJU3kB.jpg",[DASHURI E PARË] EP.3 [$]
 https://videos.files.wordpress.com/Lt7T9Qbm/ilkask3_mp4_std.mp4
-#EXTINF:-1 group-title="[AL]SERIALE(TURKE)" tvg-logo="https://i.imgur.com/RmJU3kB.jpg",[ILK ASK] EP.4 [$]
+#EXTINF:-1 group-title="[AL]SERIALE(TURKE)" tvg-logo="https://i.imgur.com/RmJU3kB.jpg",[DASHURI E PARË] EP.4 [$]
 https://videos.files.wordpress.com/1zuWSA54/ilkask4_mp4_std.mp4
-#EXTINF:-1 group-title="[AL]SERIALE(TURKE)" tvg-logo="https://i.imgur.com/RmJU3kB.jpg",[ILK ASK] EP.5 [$]
+#EXTINF:-1 group-title="[AL]SERIALE(TURKE)" tvg-logo="https://i.imgur.com/RmJU3kB.jpg",[DASHURI E PARË] EP.5 [$]
 https://videos.files.wordpress.com/o9ShDDSh/ilkask5_mp4_std.mp4
-#EXTINF:-1 group-title="[AL]SERIALE(TURKE)" tvg-logo="https://i.imgur.com/RmJU3kB.jpg",[ILK ASK] EP.6 [$]
+#EXTINF:-1 group-title="[AL]SERIALE(TURKE)" tvg-logo="https://i.imgur.com/RmJU3kB.jpg",[DASHURI E PARË] EP.6 [$]
 https://videos.files.wordpress.com/wq0UvQ5O/ilkask6_mp4_std.mp4
-#EXTINF:-1 group-title="[AL]SERIALE(TURKE)" tvg-logo="https://i.imgur.com/RmJU3kB.jpg",[ILK ASK] EP.7 [$]
+#EXTINF:-1 group-title="[AL]SERIALE(TURKE)" tvg-logo="https://i.imgur.com/RmJU3kB.jpg",[DASHURI E PARË] EP.7 [$]
 https://videos.files.wordpress.com/zDTGPrra/ilkask7_mp4_dvd.mp4
-#EXTINF:-1 group-title="[AL]SERIALE(TURKE)" tvg-logo="https://i.imgur.com/RmJU3kB.jpg",[ILK ASK] EP.8 [$]
+#EXTINF:-1 group-title="[AL]SERIALE(TURKE)" tvg-logo="https://i.imgur.com/RmJU3kB.jpg",[DASHURI E PARË] EP.8 [$]
 https://videos.files.wordpress.com/yyFUZzdx/ilkask8-1_mp4_dvd.mp4
-#EXTINF:-1 group-title="[AL]SERIALE(TURKE)" tvg-logo="https://i.imgur.com/RmJU3kB.jpg",[ILK ASK] EP.9 [$]
+#EXTINF:-1 group-title="[AL]SERIALE(TURKE)" tvg-logo="https://i.imgur.com/RmJU3kB.jpg",[DASHURI E PARË] EP.9 [$]
 https://videos.files.wordpress.com/irXdDORM/ilkask9_mp4_std.mp4
-#EXTINF:-1 group-title="[AL]SERIALE(TURKE)" tvg-logo="https://i.imgur.com/RmJU3kB.jpg",[ILK ASK] EP.10 [$]
+#EXTINF:-1 group-title="[AL]SERIALE(TURKE)" tvg-logo="https://i.imgur.com/RmJU3kB.jpg",[DASHURI E PARË] EP.10 [$]
 https://videos.files.wordpress.com/vX3Nlb9n/ilkask10_mp4_std.mp4
-#EXTINF:-1 group-title="[AL]SERIALE(TURKE)" tvg-logo="https://i.imgur.com/RmJU3kB.jpg",[ILK ASK] EP.11 [$]
+#EXTINF:-1 group-title="[AL]SERIALE(TURKE)" tvg-logo="https://i.imgur.com/RmJU3kB.jpg",[DASHURI E PARË] EP.11 [$]
 https://videos.files.wordpress.com/NE1TMGmv/ilkask11-1_mp4_std.mp4
-#EXTINF:-1 group-title="[AL]SERIALE(TURKE)" tvg-logo="https://i.imgur.com/RmJU3kB.jpg",[ILK ASK] EP.12 [$]
+#EXTINF:-1 group-title="[AL]SERIALE(TURKE)" tvg-logo="https://i.imgur.com/RmJU3kB.jpg",[DASHURI E PARË] EP.12 [$]
 https://videos.files.wordpress.com/r5bS3olH/ilkask12_mp4_dvd.mp4
 
-#EXTINF:-1 group-title="[AL]SERIALE(TURKE)" tvg-logo="https://i.ibb.co/B21d7WR/FERHAT.jpg",[FERHAT ILE SIRIN] EP.1 [$]
+#EXTINF:-1 group-title="[AL]SERIALE(TURKE)" tvg-logo="https://i.ibb.co/B21d7WR/FERHAT.jpg",[FERHAT & SHIRIN] EP.1 [$]
 https://videos.files.wordpress.com/RBj83jR1/fsh1-1.1_mp4_dvd.mp4
-#EXTINF:-1 group-title="[AL]SERIALE(TURKE)" tvg-logo="https://i.ibb.co/B21d7WR/FERHAT.jpg",[FERHAT ILE SIRIN] EP.2 [$]
+#EXTINF:-1 group-title="[AL]SERIALE(TURKE)" tvg-logo="https://i.ibb.co/B21d7WR/FERHAT.jpg",[FERHAT & SHIRIN] EP.2 [$]
 https://videos.files.wordpress.com/ndBBgvV8/fsh1.2_mp4_dvd.mp4
-#EXTINF:-1 group-title="[AL]SERIALE(TURKE)" tvg-logo="https://i.ibb.co/B21d7WR/FERHAT.jpg",[FERHAT ILE SIRIN] EP.3 [$]
+#EXTINF:-1 group-title="[AL]SERIALE(TURKE)" tvg-logo="https://i.ibb.co/B21d7WR/FERHAT.jpg",[FERHAT & SHIRIN] EP.3 [$]
 https://videos.files.wordpress.com/eFT0KB5G/fsh1.3_mp4_dvd.mp4
-#EXTINF:-1 group-title="[AL]SERIALE(TURKE)" tvg-logo="https://i.ibb.co/B21d7WR/FERHAT.jpg",[FERHAT ILE SIRIN] EP.4 [$]
+#EXTINF:-1 group-title="[AL]SERIALE(TURKE)" tvg-logo="https://i.ibb.co/B21d7WR/FERHAT.jpg",[FERHAT & SHIRIN] EP.4 [$]
 https://videos.files.wordpress.com/6MwzqMrW/fsh2-1.1_mp4_dvd.mp4
-#EXTINF:-1 group-title="[AL]SERIALE(TURKE)" tvg-logo="https://i.ibb.co/B21d7WR/FERHAT.jpg",[FERHAT ILE SIRIN] EP.5 [$]
+#EXTINF:-1 group-title="[AL]SERIALE(TURKE)" tvg-logo="https://i.ibb.co/B21d7WR/FERHAT.jpg",[FERHAT & SHIRIN] EP.5 [$]
 https://videos.files.wordpress.com/PZM1eSTS/fsh2.2_mp4_dvd.mp4
-#EXTINF:-1 group-title="[AL]SERIALE(TURKE)" tvg-logo="https://i.ibb.co/B21d7WR/FERHAT.jpg",[FERHAT ILE SIRIN] EP.6 [$]
+#EXTINF:-1 group-title="[AL]SERIALE(TURKE)" tvg-logo="https://i.ibb.co/B21d7WR/FERHAT.jpg",[FERHAT & SHIRIN] EP.6 [$]
 https://videos.files.wordpress.com/LfijiJuU/ferhat6-3_mp4_dvd.mp4
-#EXTINF:-1 group-title="[AL]SERIALE(TURKE)" tvg-logo="https://i.ibb.co/B21d7WR/FERHAT.jpg",[FERHAT ILE SIRIN] EP.7 [$]
+#EXTINF:-1 group-title="[AL]SERIALE(TURKE)" tvg-logo="https://i.ibb.co/B21d7WR/FERHAT.jpg",[FERHAT & SHIRIN] EP.7 [$]
 https://videos.files.wordpress.com/RNL6YgEz/fsh3.1_mp4_dvd.mp4
-#EXTINF:-1 group-title="[AL]SERIALE(TURKE)" tvg-logo="https://i.ibb.co/B21d7WR/FERHAT.jpg",[FERHAT ILE SIRIN] EP.8 [$]
+#EXTINF:-1 group-title="[AL]SERIALE(TURKE)" tvg-logo="https://i.ibb.co/B21d7WR/FERHAT.jpg",[FERHAT & SHIRIN] EP.8 [$]
 https://videos.files.wordpress.com/l4M5tD0L/fsh3.2_mp4_dvd.mp4
-#EXTINF:-1 group-title="[AL]SERIALE(TURKE)" tvg-logo="https://i.ibb.co/B21d7WR/FERHAT.jpg",[FERHAT ILE SIRIN] EP.9 [$]
+#EXTINF:-1 group-title="[AL]SERIALE(TURKE)" tvg-logo="https://i.ibb.co/B21d7WR/FERHAT.jpg",[FERHAT & SHIRIN] EP.9 [$]
 https://videos.files.wordpress.com/IiW0ZxHv/fsh3.3_mp4_dvd.mp4
-#EXTINF:-1 group-title="[AL]SERIALE(TURKE)" tvg-logo="https://i.ibb.co/B21d7WR/FERHAT.jpg",[FERHAT ILE SIRIN] EP.10 [$]
+#EXTINF:-1 group-title="[AL]SERIALE(TURKE)" tvg-logo="https://i.ibb.co/B21d7WR/FERHAT.jpg",[FERHAT & SHIRIN] EP.10 [$]
 https://videos.files.wordpress.com/WjafLXNh/fsh4.1_mp4_dvd.mp4
-#EXTINF:-1 group-title="[AL]SERIALE(TURKE)" tvg-logo="https://i.ibb.co/B21d7WR/FERHAT.jpg",[FERHAT ILE SIRIN] EP.11 [$]
+#EXTINF:-1 group-title="[AL]SERIALE(TURKE)" tvg-logo="https://i.ibb.co/B21d7WR/FERHAT.jpg",[FERHAT & SHIRIN] EP.11 [$]
 https://videos.files.wordpress.com/Xb4RTP0O/fsh4.2_mp4_dvd.mp4
-#EXTINF:-1 group-title="[AL]SERIALE(TURKE)" tvg-logo="https://i.ibb.co/B21d7WR/FERHAT.jpg",[FERHAT ILE SIRIN] EP.12 [$]
+#EXTINF:-1 group-title="[AL]SERIALE(TURKE)" tvg-logo="https://i.ibb.co/B21d7WR/FERHAT.jpg",[FERHAT & SHIRIN] EP.12 [$]
 https://videos.files.wordpress.com/1Hhb6ymj/fsh4.3_mp4_dvd.mp4
-#EXTINF:-1 group-title="[AL]SERIALE(TURKE)" tvg-logo="https://i.ibb.co/B21d7WR/FERHAT.jpg",[FERHAT ILE SIRIN] EP.13 [$]
+#EXTINF:-1 group-title="[AL]SERIALE(TURKE)" tvg-logo="https://i.ibb.co/B21d7WR/FERHAT.jpg",[FERHAT & SHIRIN] EP.13 [$]
 https://videos.files.wordpress.com/0D5NUphq/fsh5.1_mp4_dvd.mp4
-#EXTINF:-1 group-title="[AL]SERIALE(TURKE)" tvg-logo="https://i.ibb.co/B21d7WR/FERHAT.jpg",[FERHAT ILE SIRIN] EP.14 [$]
+#EXTINF:-1 group-title="[AL]SERIALE(TURKE)" tvg-logo="https://i.ibb.co/B21d7WR/FERHAT.jpg",[FERHAT & SHIRIN] EP.14 [$]
 https://videos.files.wordpress.com/rX0Pxtbx/fsh5.2_mp4_dvd.mp4
-#EXTINF:-1 group-title="[AL]SERIALE(TURKE)" tvg-logo="https://i.ibb.co/B21d7WR/FERHAT.jpg",[FERHAT ILE SIRIN] EP.15 [$]
+#EXTINF:-1 group-title="[AL]SERIALE(TURKE)" tvg-logo="https://i.ibb.co/B21d7WR/FERHAT.jpg",[FERHAT & SHIRIN] EP.15 [$]
 https://videos.files.wordpress.com/A1TApORG/fsh5.3_mp4_dvd.mp4
-#EXTINF:-1 group-title="[AL]SERIALE(TURKE)" tvg-logo="https://i.ibb.co/B21d7WR/FERHAT.jpg",[FERHAT ILE SIRIN] EP.16 [$]
+#EXTINF:-1 group-title="[AL]SERIALE(TURKE)" tvg-logo="https://i.ibb.co/B21d7WR/FERHAT.jpg",[FERHAT & SHIRIN] EP.16 [$]
 https://videos.files.wordpress.com/UtlOIF5y/fsh6.1_mp4_dvd.mp4
-#EXTINF:-1 group-title="[AL]SERIALE(TURKE)" tvg-logo="https://i.ibb.co/B21d7WR/FERHAT.jpg",[FERHAT ILE SIRIN] EP.17 [$]
+#EXTINF:-1 group-title="[AL]SERIALE(TURKE)" tvg-logo="https://i.ibb.co/B21d7WR/FERHAT.jpg",[FERHAT & SHIRIN] EP.17 [$]
 https://videos.files.wordpress.com/obmDbIPg/fsh6.2_mp4_dvd.mp4
-#EXTINF:-1 group-title="[AL]SERIALE(TURKE)" tvg-logo="https://i.ibb.co/B21d7WR/FERHAT.jpg",[FERHAT ILE SIRIN] EP.18 [$]
+#EXTINF:-1 group-title="[AL]SERIALE(TURKE)" tvg-logo="https://i.ibb.co/B21d7WR/FERHAT.jpg",[FERHAT & SHIRIN] EP.18 [$]
 https://videos.files.wordpress.com/urbPsPeI/fsh6.3_mp4_dvd.mp4
 
 #EXTINF:-1 group-title="[AL]SERIALE(TURKE)" tvg-logo="https://i.ibb.co/0fypsc9/AZIZE.png",[AZIZE] EP.1 [$]
@@ -2813,188 +2789,303 @@ https://videos.files.wordpress.com/Wnv5HWk1/azize17_mp4_dvd.mp4
 #EXTINF:-1 group-title="[AL]SERIALE(TURKE)" tvg-logo="https://i.ibb.co/0fypsc9/AZIZE.png",[AZIZE] EP.18 [$]
 https://videos.files.wordpress.com/MP8vrv14/azize18_mp4_dvd.mp4
 
-#EXTINF:-1 group-title="[AL]SERIALE(TURKE)" tvg-logo="https://i.ibb.co/DGFNg5W/SEVG.jpg",[SEVGILI GEÇMIS] EP.1 [$]
+#EXTINF:-1 group-title="[AL]SERIALE(TURKE)" tvg-logo="https://i.ibb.co/DGFNg5W/SEVG.jpg",[DASHURI E KALUAR] EP.1 [$]
 https://videos.files.wordpress.com/Ampo1b6s/ekaluar1_mp4_dvd.mp4
-#EXTINF:-1 group-title="[AL]SERIALE(TURKE)" tvg-logo="https://i.ibb.co/DGFNg5W/SEVG.jpg",[SEVGILI GEÇMIS] EP.2 [$]
+#EXTINF:-1 group-title="[AL]SERIALE(TURKE)" tvg-logo="https://i.ibb.co/DGFNg5W/SEVG.jpg",[DASHURI E KALUAR] EP.2 [$]
 https://videos.files.wordpress.com/5X4gJgIk/ekaluar2_mp4_dvd.mp4
-#EXTINF:-1 group-title="[AL]SERIALE(TURKE)" tvg-logo="https://i.ibb.co/DGFNg5W/SEVG.jpg",[SEVGILI GEÇMIS] EP.3 [$]
+#EXTINF:-1 group-title="[AL]SERIALE(TURKE)" tvg-logo="https://i.ibb.co/DGFNg5W/SEVG.jpg",[DASHURI E KALUAR] EP.3 [$]
 https://videos.files.wordpress.com/O35gVEwC/ekaluar4-1_mp4_dvd.mp4
-#EXTINF:-1 group-title="[AL]SERIALE(TURKE)" tvg-logo="https://i.ibb.co/DGFNg5W/SEVG.jpg",[SEVGILI GEÇMIS] EP.4 [$]
+#EXTINF:-1 group-title="[AL]SERIALE(TURKE)" tvg-logo="https://i.ibb.co/DGFNg5W/SEVG.jpg",[DASHURI E KALUAR] EP.4 [$]
 https://videos.files.wordpress.com/xTPxwqFu/ekaluar5-1_mp4_dvd.mp4
-#EXTINF:-1 group-title="[AL]SERIALE(TURKE)" tvg-logo="https://i.ibb.co/DGFNg5W/SEVG.jpg",[SEVGILI GEÇMIS] EP.5 [$]
+#EXTINF:-1 group-title="[AL]SERIALE(TURKE)" tvg-logo="https://i.ibb.co/DGFNg5W/SEVG.jpg",[DASHURI E KALUAR] EP.5 [$]
 https://videos.files.wordpress.com/GxF6LcIG/ekaluar6_mp4_dvd.mp4
-#EXTINF:-1 group-title="[AL]SERIALE(TURKE)" tvg-logo="https://i.ibb.co/DGFNg5W/SEVG.jpg",[SEVGILI GEÇMIS] EP.6 [$]
+#EXTINF:-1 group-title="[AL]SERIALE(TURKE)" tvg-logo="https://i.ibb.co/DGFNg5W/SEVG.jpg",[DASHURI E KALUAR] EP.6 [$]
 https://videos.files.wordpress.com/x48BhPZZ/ekaluar7_mp4_dvd.mp4
-#EXTINF:-1 group-title="[AL]SERIALE(TURKE)" tvg-logo="https://i.ibb.co/DGFNg5W/SEVG.jpg",[SEVGILI GEÇMIS] EP.7 [$]
+#EXTINF:-1 group-title="[AL]SERIALE(TURKE)" tvg-logo="https://i.ibb.co/DGFNg5W/SEVG.jpg",[DASHURI E KALUAR] EP.7 [$]
 https://videos.files.wordpress.com/8pnIZ4xS/ekaluar8_mp4_dvd.mp4
-#EXTINF:-1 group-title="[AL]SERIALE(TURKE)" tvg-logo="https://i.ibb.co/DGFNg5W/SEVG.jpg",[SEVGILI GEÇMIS] EP.8 [$]
+#EXTINF:-1 group-title="[AL]SERIALE(TURKE)" tvg-logo="https://i.ibb.co/DGFNg5W/SEVG.jpg",[DASHURI E KALUAR] EP.8 [$]
 https://videos.files.wordpress.com/Xje1nQZw/ekaluar9_mp4_dvd.mp4
-#EXTINF:-1 group-title="[AL]SERIALE(TURKE)" tvg-logo="https://i.ibb.co/DGFNg5W/SEVG.jpg",[SEVGILI GEÇMIS] EP.9 [$]
+#EXTINF:-1 group-title="[AL]SERIALE(TURKE)" tvg-logo="https://i.ibb.co/DGFNg5W/SEVG.jpg",[DASHURI E KALUAR] EP.9 [$]
 https://videos.files.wordpress.com/usDz1qxC/ekaluar10_mp4_dvd.mp4
-#EXTINF:-1 group-title="[AL]SERIALE(TURKE)" tvg-logo="https://i.ibb.co/DGFNg5W/SEVG.jpg",[SEVGILI GEÇMIS] EP.10 [$]
+#EXTINF:-1 group-title="[AL]SERIALE(TURKE)" tvg-logo="https://i.ibb.co/DGFNg5W/SEVG.jpg",[DASHURI E KALUAR] EP.10 [$]
 https://videos.files.wordpress.com/CSTT7NBQ/ekaluar11_mp4_dvd.mp4
-#EXTINF:-1 group-title="[AL]SERIALE(TURKE)" tvg-logo="https://i.ibb.co/DGFNg5W/SEVG.jpg",[SEVGILI GEÇMIS] EP.11 [$]
+#EXTINF:-1 group-title="[AL]SERIALE(TURKE)" tvg-logo="https://i.ibb.co/DGFNg5W/SEVG.jpg",[DASHURI E KALUAR] EP.11 [$]
 https://videos.files.wordpress.com/zIfzabBf/ekaluar12_mp4_dvd.mp4
-#EXTINF:-1 group-title="[AL]SERIALE(TURKE)" tvg-logo="https://i.ibb.co/DGFNg5W/SEVG.jpg",[SEVGILI GEÇMIS] EP.12 [$]
+#EXTINF:-1 group-title="[AL]SERIALE(TURKE)" tvg-logo="https://i.ibb.co/DGFNg5W/SEVG.jpg",[DASHURI E KALUAR] EP.12 [$]
 https://videos.files.wordpress.com/58r5QsBE/ekaluar13_mp4_dvd.mp4
-#EXTINF:-1 group-title="[AL]SERIALE(TURKE)" tvg-logo="https://i.ibb.co/DGFNg5W/SEVG.jpg",[SEVGILI GEÇMIS] EP.13 [$]
+#EXTINF:-1 group-title="[AL]SERIALE(TURKE)" tvg-logo="https://i.ibb.co/DGFNg5W/SEVG.jpg",[DASHURI E KALUAR] EP.13 [$]
 https://videos.files.wordpress.com/qyl0wZZW/ekaluar14_mp4_dvd.mp4
-#EXTINF:-1 group-title="[AL]SERIALE(TURKE)" tvg-logo="https://i.ibb.co/DGFNg5W/SEVG.jpg",[SEVGILI GEÇMIS] EP.14 [$]
+#EXTINF:-1 group-title="[AL]SERIALE(TURKE)" tvg-logo="https://i.ibb.co/DGFNg5W/SEVG.jpg",[DASHURI E KALUAR] EP.14 [$]
 https://videos.files.wordpress.com/mO6G27DX/ekaluar15-1_mp4_dvd.mp4
-#EXTINF:-1 group-title="[AL]SERIALE(TURKE)" tvg-logo="https://i.ibb.co/DGFNg5W/SEVG.jpg",[SEVGILI GEÇMIS] EP.15 [$]
+#EXTINF:-1 group-title="[AL]SERIALE(TURKE)" tvg-logo="https://i.ibb.co/DGFNg5W/SEVG.jpg",[DASHURI E KALUAR] EP.15 [$]
 https://videos.files.wordpress.com/xjkQo7RX/ekaluar16_mp4_dvd.mp4
-#EXTINF:-1 group-title="[AL]SERIALE(TURKE)" tvg-logo="https://i.ibb.co/DGFNg5W/SEVG.jpg",[SEVGILI GEÇMIS] EP.16 [$]
+#EXTINF:-1 group-title="[AL]SERIALE(TURKE)" tvg-logo="https://i.ibb.co/DGFNg5W/SEVG.jpg",[DASHURI E KALUAR] EP.16 [$]
 https://videos.files.wordpress.com/5wswB8IS/ekaluar17_mp4_dvd.mp4
-#EXTINF:-1 group-title="[AL]SERIALE(TURKE)" tvg-logo="https://i.ibb.co/DGFNg5W/SEVG.jpg",[SEVGILI GEÇMIS] EP.17 [$]
+#EXTINF:-1 group-title="[AL]SERIALE(TURKE)" tvg-logo="https://i.ibb.co/DGFNg5W/SEVG.jpg",[DASHURI E KALUAR] EP.17 [$]
 https://videos.files.wordpress.com/wCO6XgH5/ekaluar18_mp4_dvd.mp4
-#EXTINF:-1 group-title="[AL]SERIALE(TURKE)" tvg-logo="https://i.ibb.co/DGFNg5W/SEVG.jpg",[SEVGILI GEÇMIS] EP.18 [$]
+#EXTINF:-1 group-title="[AL]SERIALE(TURKE)" tvg-logo="https://i.ibb.co/DGFNg5W/SEVG.jpg",[DASHURI E KALUAR] EP.18 [$]
 https://videos.files.wordpress.com/Pa5XiWTY/ekaluar19_mp4_dvd.mp4
-#EXTINF:-1 group-title="[AL]SERIALE(TURKE)" tvg-logo="https://i.ibb.co/DGFNg5W/SEVG.jpg",[SEVGILI GEÇMIS] EP.19 [$]
+#EXTINF:-1 group-title="[AL]SERIALE(TURKE)" tvg-logo="https://i.ibb.co/DGFNg5W/SEVG.jpg",[DASHURI E KALUAR] EP.19 [$]
 https://videos.files.wordpress.com/pJ10LPhP/ekaluar20_mp4_dvd.mp4
-#EXTINF:-1 group-title="[AL]SERIALE(TURKE)" tvg-logo="https://i.ibb.co/DGFNg5W/SEVG.jpg",[SEVGILI GEÇMIS] EP.20 [$]
+#EXTINF:-1 group-title="[AL]SERIALE(TURKE)" tvg-logo="https://i.ibb.co/DGFNg5W/SEVG.jpg",[DASHURI E KALUAR] EP.20 [$]
 https://videos.files.wordpress.com/rQqvR7oO/ekaluar21_mp4_dvd.mp4
-#EXTINF:-1 group-title="[AL]SERIALE(TURKE)" tvg-logo="https://i.ibb.co/DGFNg5W/SEVG.jpg",[SEVGILI GEÇMIS] EP.21 [$]
+#EXTINF:-1 group-title="[AL]SERIALE(TURKE)" tvg-logo="https://i.ibb.co/DGFNg5W/SEVG.jpg",[DASHURI E KALUAR] EP.21 [$]
 https://videos.files.wordpress.com/AycP7YCA/ekaluar22_mp4_dvd.mp4
-#EXTINF:-1 group-title="[AL]SERIALE(TURKE)" tvg-logo="https://i.ibb.co/DGFNg5W/SEVG.jpg",[SEVGILI GEÇMIS] EP.22 [$]
+#EXTINF:-1 group-title="[AL]SERIALE(TURKE)" tvg-logo="https://i.ibb.co/DGFNg5W/SEVG.jpg",[DASHURI E KALUAR] EP.22 [$]
 https://videos.files.wordpress.com/dh1QehgR/ekaluar23_mp4_dvd.mp4
-#EXTINF:-1 group-title="[AL]SERIALE(TURKE)" tvg-logo="https://i.ibb.co/DGFNg5W/SEVG.jpg",[SEVGILI GEÇMIS] EP.23 [$]
+#EXTINF:-1 group-title="[AL]SERIALE(TURKE)" tvg-logo="https://i.ibb.co/DGFNg5W/SEVG.jpg",[DASHURI E KALUAR] EP.23 [$]
 https://videos.files.wordpress.com/pUy8hi2O/ekaluar24_mp4_dvd.mp4
-#EXTINF:-1 group-title="[AL]SERIALE(TURKE)" tvg-logo="https://i.ibb.co/DGFNg5W/SEVG.jpg",[SEVGILI GEÇMIS] EP.24 [$]
+#EXTINF:-1 group-title="[AL]SERIALE(TURKE)" tvg-logo="https://i.ibb.co/DGFNg5W/SEVG.jpg",[DASHURI E KALUAR] EP.24 [$]
 https://videos.files.wordpress.com/gymg6qZz/ekaluar25_mp4_dvd.mp4
 
-#EXTINF:-1 group-title="[AL]SERIALE(TURKE)" tvg-logo="https://i.ibb.co/PxwkMpw/ZEMHERI.jpg",[ZEMHERI] EP.1 [$]
+#EXTINF:-1 group-title="[AL]SERIALE(TURKE)" tvg-logo="https://i.ibb.co/PxwkMpw/ZEMHERI.jpg",[STUHI DASHURIE] EP.1 [$]
 https://videos.files.wordpress.com/K9WsYlvi/zemheri1_mp4_dvd.mp4
-#EXTINF:-1 group-title="[AL]SERIALE(TURKE)" tvg-logo="https://i.ibb.co/PxwkMpw/ZEMHERI.jpg",[ZEMHERI] EP.2 [$]
+#EXTINF:-1 group-title="[AL]SERIALE(TURKE)" tvg-logo="https://i.ibb.co/PxwkMpw/ZEMHERI.jpg",[STUHI DASHURIE] EP.2 [$]
 https://videos.files.wordpress.com/BBToU2JX/zemheri2_mp4_dvd.mp4
-#EXTINF:-1 group-title="[AL]SERIALE(TURKE)" tvg-logo="https://i.ibb.co/PxwkMpw/ZEMHERI.jpg",[ZEMHERI] EP.3 [$]
+#EXTINF:-1 group-title="[AL]SERIALE(TURKE)" tvg-logo="https://i.ibb.co/PxwkMpw/ZEMHERI.jpg",[STUHI DASHURIE] EP.3 [$]
 https://videos.files.wordpress.com/8U3uSAdY/zemheri3_mp4_dvd.mp4
-#EXTINF:-1 group-title="[AL]SERIALE(TURKE)" tvg-logo="https://i.ibb.co/PxwkMpw/ZEMHERI.jpg",[ZEMHERI] EP.4 [$]
+#EXTINF:-1 group-title="[AL]SERIALE(TURKE)" tvg-logo="https://i.ibb.co/PxwkMpw/ZEMHERI.jpg",[STUHI DASHURIE] EP.4 [$]
 https://videos.files.wordpress.com/6q3DVRb5/zemheri4_mp4_dvd.mp4
-#EXTINF:-1 group-title="[AL]SERIALE(TURKE)" tvg-logo="https://i.ibb.co/PxwkMpw/ZEMHERI.jpg",[ZEMHERI] EP.5 [$]
+#EXTINF:-1 group-title="[AL]SERIALE(TURKE)" tvg-logo="https://i.ibb.co/PxwkMpw/ZEMHERI.jpg",[STUHI DASHURIE] EP.5 [$]
 https://videos.files.wordpress.com/edcJaN31/zemheri5_mp4_dvd.mp4
-#EXTINF:-1 group-title="[AL]SERIALE(TURKE)" tvg-logo="https://i.ibb.co/PxwkMpw/ZEMHERI.jpg",[ZEMHERI] EP.6 [$]
+#EXTINF:-1 group-title="[AL]SERIALE(TURKE)" tvg-logo="https://i.ibb.co/PxwkMpw/ZEMHERI.jpg",[STUHI DASHURIE] EP.6 [$]
 https://videos.files.wordpress.com/CxLKDy5W/zemheri6_mp4_dvd.mp4
-#EXTINF:-1 group-title="[AL]SERIALE(TURKE)" tvg-logo="https://i.ibb.co/PxwkMpw/ZEMHERI.jpg",[ZEMHERI] EP.7 [$]
+#EXTINF:-1 group-title="[AL]SERIALE(TURKE)" tvg-logo="https://i.ibb.co/PxwkMpw/ZEMHERI.jpg",[STUHI DASHURIE] EP.7 [$]
 https://videos.files.wordpress.com/JQ11edeL/zemheri7_mp4_dvd.mp4
-#EXTINF:-1 group-title="[AL]SERIALE(TURKE)" tvg-logo="https://i.ibb.co/PxwkMpw/ZEMHERI.jpg",[ZEMHERI] EP.8 [$]
+#EXTINF:-1 group-title="[AL]SERIALE(TURKE)" tvg-logo="https://i.ibb.co/PxwkMpw/ZEMHERI.jpg",[STUHI DASHURIE] EP.8 [$]
 https://videos.files.wordpress.com/Xd4CtsRm/zemheri8_mp4_dvd.mp4
-#EXTINF:-1 group-title="[AL]SERIALE(TURKE)" tvg-logo="https://i.ibb.co/PxwkMpw/ZEMHERI.jpg",[ZEMHERI] EP.9 [$]
+#EXTINF:-1 group-title="[AL]SERIALE(TURKE)" tvg-logo="https://i.ibb.co/PxwkMpw/ZEMHERI.jpg",[STUHI DASHURIE] EP.9 [$]
 https://videos.files.wordpress.com/dfBxlA8A/zemheri9_mp4_dvd.mp4
-#EXTINF:-1 group-title="[AL]SERIALE(TURKE)" tvg-logo="https://i.ibb.co/PxwkMpw/ZEMHERI.jpg",[ZEMHERI] EP.10 [$]
+#EXTINF:-1 group-title="[AL]SERIALE(TURKE)" tvg-logo="https://i.ibb.co/PxwkMpw/ZEMHERI.jpg",[STUHI DASHURIE] EP.10 [$]
 https://videos.files.wordpress.com/tQDEwKXX/zemheri10_mp4_dvd.mp4
-#EXTINF:-1 group-title="[AL]SERIALE(TURKE)" tvg-logo="https://i.ibb.co/PxwkMpw/ZEMHERI.jpg",[ZEMHERI] EP.11 [$]
+#EXTINF:-1 group-title="[AL]SERIALE(TURKE)" tvg-logo="https://i.ibb.co/PxwkMpw/ZEMHERI.jpg",[STUHI DASHURIE] EP.11 [$]
 https://videos.files.wordpress.com/Nfz15yzd/zemheri11_mp4_dvd.mp4
-#EXTINF:-1 group-title="[AL]SERIALE(TURKE)" tvg-logo="https://i.ibb.co/PxwkMpw/ZEMHERI.jpg",[ZEMHERI] EP.12 [$]
+#EXTINF:-1 group-title="[AL]SERIALE(TURKE)" tvg-logo="https://i.ibb.co/PxwkMpw/ZEMHERI.jpg",[STUHI DASHURIE] EP.12 [$]
 https://videos.files.wordpress.com/EbMVgADX/zemheri12-1_mp4_dvd.mp4
-#EXTINF:-1 group-title="[AL]SERIALE(TURKE)" tvg-logo="https://i.ibb.co/PxwkMpw/ZEMHERI.jpg",[ZEMHERI] EP.13 [$]
+#EXTINF:-1 group-title="[AL]SERIALE(TURKE)" tvg-logo="https://i.ibb.co/PxwkMpw/ZEMHERI.jpg",[STUHI DASHURIE] EP.13 [$]
 https://videos.files.wordpress.com/yQycURrc/zemheri13_mp4_dvd.mp4
-#EXTINF:-1 group-title="[AL]SERIALE(TURKE)" tvg-logo="https://i.ibb.co/PxwkMpw/ZEMHERI.jpg",[ZEMHERI] EP.14 [$]
+#EXTINF:-1 group-title="[AL]SERIALE(TURKE)" tvg-logo="https://i.ibb.co/PxwkMpw/ZEMHERI.jpg",[STUHI DASHURIE] EP.14 [$]
 https://videos.files.wordpress.com/txFN1M7X/zemheri14_mp4_dvd.mp4
-#EXTINF:-1 group-title="[AL]SERIALE(TURKE)" tvg-logo="https://i.ibb.co/PxwkMpw/ZEMHERI.jpg",[ZEMHERI] EP.15 [$]
+#EXTINF:-1 group-title="[AL]SERIALE(TURKE)" tvg-logo="https://i.ibb.co/PxwkMpw/ZEMHERI.jpg",[STUHI DASHURIE] EP.15 [$]
 https://videos.files.wordpress.com/J1keHQm7/zemheri15_mp4_dvd.mp4
-#EXTINF:-1 group-title="[AL]SERIALE(TURKE)" tvg-logo="https://i.ibb.co/PxwkMpw/ZEMHERI.jpg",[ZEMHERI] EP.16 [$]
+#EXTINF:-1 group-title="[AL]SERIALE(TURKE)" tvg-logo="https://i.ibb.co/PxwkMpw/ZEMHERI.jpg",[STUHI DASHURIE] EP.16 [$]
 https://videos.files.wordpress.com/ckjxoPUj/zemheri16_mp4_dvd.mp4
-#EXTINF:-1 group-title="[AL]SERIALE(TURKE)" tvg-logo="https://i.ibb.co/PxwkMpw/ZEMHERI.jpg",[ZEMHERI] EP.17 [$]
+#EXTINF:-1 group-title="[AL]SERIALE(TURKE)" tvg-logo="https://i.ibb.co/PxwkMpw/ZEMHERI.jpg",[STUHI DASHURIE] EP.17 [$]
 https://videos.files.wordpress.com/wgbDtinL/zemheri17_mp4_dvd.mp4
-#EXTINF:-1 group-title="[AL]SERIALE(TURKE)" tvg-logo="https://i.ibb.co/PxwkMpw/ZEMHERI.jpg",[ZEMHERI] EP.18 [$]
+#EXTINF:-1 group-title="[AL]SERIALE(TURKE)" tvg-logo="https://i.ibb.co/PxwkMpw/ZEMHERI.jpg",[STUHI DASHURIE] EP.18 [$]
 https://videos.files.wordpress.com/TPSylJK2/zemheri18_mp4_dvd.mp4
-#EXTINF:-1 group-title="[AL]SERIALE(TURKE)" tvg-logo="https://i.ibb.co/PxwkMpw/ZEMHERI.jpg",[ZEMHERI] EP.19 [$]
+#EXTINF:-1 group-title="[AL]SERIALE(TURKE)" tvg-logo="https://i.ibb.co/PxwkMpw/ZEMHERI.jpg",[STUHI DASHURIE] EP.19 [$]
 https://videos.files.wordpress.com/hqyvkfKK/zemheri19_mp4_dvd.mp4
-#EXTINF:-1 group-title="[AL]SERIALE(TURKE)" tvg-logo="https://i.ibb.co/PxwkMpw/ZEMHERI.jpg",[ZEMHERI] EP.20 [$]
+#EXTINF:-1 group-title="[AL]SERIALE(TURKE)" tvg-logo="https://i.ibb.co/PxwkMpw/ZEMHERI.jpg",[STUHI DASHURIE] EP.20 [$]
 https://videos.files.wordpress.com/gJL3hcEs/zemheri20_mp4_dvd.mp4
-#EXTINF:-1 group-title="[AL]SERIALE(TURKE)" tvg-logo="https://i.ibb.co/PxwkMpw/ZEMHERI.jpg",[ZEMHERI] EP.21 [$]
+#EXTINF:-1 group-title="[AL]SERIALE(TURKE)" tvg-logo="https://i.ibb.co/PxwkMpw/ZEMHERI.jpg",[STUHI DASHURIE] EP.21 [$]
 https://videos.files.wordpress.com/aayk0nU9/zemheri21_mp4_dvd.mp4
-#EXTINF:-1 group-title="[AL]SERIALE(TURKE)" tvg-logo="https://i.ibb.co/PxwkMpw/ZEMHERI.jpg",[ZEMHERI] EP.22 [$]
+#EXTINF:-1 group-title="[AL]SERIALE(TURKE)" tvg-logo="https://i.ibb.co/PxwkMpw/ZEMHERI.jpg",[STUHI DASHURIE] EP.22 [$]
 https://videos.files.wordpress.com/Q32qXrdR/zemheri22_mp4_dvd.mp4
-#EXTINF:-1 group-title="[AL]SERIALE(TURKE)" tvg-logo="https://i.ibb.co/PxwkMpw/ZEMHERI.jpg",[ZEMHERI] EP.23 [$]
+#EXTINF:-1 group-title="[AL]SERIALE(TURKE)" tvg-logo="https://i.ibb.co/PxwkMpw/ZEMHERI.jpg",[STUHI DASHURIE] EP.23 [$]
 https://videos.files.wordpress.com/g7bLuDMw/zemheri23-1_mp4_dvd.mp4
-#EXTINF:-1 group-title="[AL]SERIALE(TURKE)" tvg-logo="https://i.ibb.co/PxwkMpw/ZEMHERI.jpg",[ZEMHERI] EP.24 [$]
+#EXTINF:-1 group-title="[AL]SERIALE(TURKE)" tvg-logo="https://i.ibb.co/PxwkMpw/ZEMHERI.jpg",[STUHI DASHURIE] EP.24 [$]
 https://videos.files.wordpress.com/JNfLq23H/zemheri24-1_mp4_dvd.mp4
-#EXTINF:-1 group-title="[AL]SERIALE(TURKE)" tvg-logo="https://i.ibb.co/PxwkMpw/ZEMHERI.jpg",[ZEMHERI] EP.25 [$]
+#EXTINF:-1 group-title="[AL]SERIALE(TURKE)" tvg-logo="https://i.ibb.co/PxwkMpw/ZEMHERI.jpg",[STUHI DASHURIE] EP.25 [$]
 https://videos.files.wordpress.com/UaFl6xuc/zemheri25_mp4_dvd.mp4
-#EXTINF:-1 group-title="[AL]SERIALE(TURKE)" tvg-logo="https://i.ibb.co/PxwkMpw/ZEMHERI.jpg",[ZEMHERI] EP.26 [$]
+#EXTINF:-1 group-title="[AL]SERIALE(TURKE)" tvg-logo="https://i.ibb.co/PxwkMpw/ZEMHERI.jpg",[STUHI DASHURIE] EP.26 [$]
 https://videos.files.wordpress.com/gtle08a3/zemheri26_mp4_dvd.mp4
-#EXTINF:-1 group-title="[AL]SERIALE(TURKE)" tvg-logo="https://i.ibb.co/PxwkMpw/ZEMHERI.jpg",[ZEMHERI] EP.27 [$]
+#EXTINF:-1 group-title="[AL]SERIALE(TURKE)" tvg-logo="https://i.ibb.co/PxwkMpw/ZEMHERI.jpg",[STUHI DASHURIE] EP.27 [$]
 https://videos.files.wordpress.com/2Qmduuxl/zemheri27_mp4_dvd.mp4
-#EXTINF:-1 group-title="[AL]SERIALE(TURKE)" tvg-logo="https://i.ibb.co/PxwkMpw/ZEMHERI.jpg",[ZEMHERI] EP.28 [$]
+#EXTINF:-1 group-title="[AL]SERIALE(TURKE)" tvg-logo="https://i.ibb.co/PxwkMpw/ZEMHERI.jpg",[STUHI DASHURIE] EP.28 [$]
 https://videos.files.wordpress.com/tNxnjRVZ/zemheri28_mp4_dvd.mp4
-#EXTINF:-1 group-title="[AL]SERIALE(TURKE)" tvg-logo="https://i.ibb.co/PxwkMpw/ZEMHERI.jpg",[ZEMHERI] EP.29 [$]
+#EXTINF:-1 group-title="[AL]SERIALE(TURKE)" tvg-logo="https://i.ibb.co/PxwkMpw/ZEMHERI.jpg",[STUHI DASHURIE] EP.29 [$]
 https://videos.files.wordpress.com/wUyL1L5r/zemheri29_mp4_dvd.mp4
-#EXTINF:-1 group-title="[AL]SERIALE(TURKE)" tvg-logo="https://i.ibb.co/PxwkMpw/ZEMHERI.jpg",[ZEMHERI] EP.30 [$]
+#EXTINF:-1 group-title="[AL]SERIALE(TURKE)" tvg-logo="https://i.ibb.co/PxwkMpw/ZEMHERI.jpg",[STUHI DASHURIE] EP.30 [$]
 https://videos.files.wordpress.com/a2KYoAqx/zemheri30_mp4_dvd.mp4
 
-#EXTINF:-1 group-title="[AL]SERIALE(TURKE)" tvg-logo="https://i.imgur.com/66QjBtn.jpg",[SOL YANIM] EP.1 [$]
+#EXTINF:-1 group-title="[AL]SERIALE(TURKE)" tvg-logo="https://i.imgur.com/66QjBtn.jpg",[ANA E MAJTË] EP.1 [$]
 https://videos.files.wordpress.com/OKllmvrb/sol1_mp4_dvd.mp4
-#EXTINF:-1 group-title="[AL]SERIALE(TURKE)" tvg-logo="https://i.imgur.com/66QjBtn.jpg",[SOL YANIM] EP.2 [$]
+#EXTINF:-1 group-title="[AL]SERIALE(TURKE)" tvg-logo="https://i.imgur.com/66QjBtn.jpg",[ANA E MAJTË] EP.2 [$]
 https://videos.files.wordpress.com/iaQYZMC9/sol2_mp4_dvd.mp4
-#EXTINF:-1 group-title="[AL]SERIALE(TURKE)" tvg-logo="https://i.imgur.com/66QjBtn.jpg",[SOL YANIM] EP.3 [$]
+#EXTINF:-1 group-title="[AL]SERIALE(TURKE)" tvg-logo="https://i.imgur.com/66QjBtn.jpg",[ANA E MAJTË] EP.3 [$]
 https://videos.files.wordpress.com/CrU1hbMU/sol3_mp4_dvd.mp4
-#EXTINF:-1 group-title="[AL]SERIALE(TURKE)" tvg-logo="https://i.imgur.com/66QjBtn.jpg",[SOL YANIM] EP.4 [$]
+#EXTINF:-1 group-title="[AL]SERIALE(TURKE)" tvg-logo="https://i.imgur.com/66QjBtn.jpg",[ANA E MAJTË] EP.4 [$]
 https://videos.files.wordpress.com/gLqIeCJp/soly4_mp4_dvd.mp4
-#EXTINF:-1 group-title="[AL]SERIALE(TURKE)" tvg-logo="https://i.imgur.com/66QjBtn.jpg",[SOL YANIM] EP.5 [$]
+#EXTINF:-1 group-title="[AL]SERIALE(TURKE)" tvg-logo="https://i.imgur.com/66QjBtn.jpg",[ANA E MAJTË] EP.5 [$]
 https://videos.files.wordpress.com/79O9KW1c/sol5_mp4_dvd.mp4
-#EXTINF:-1 group-title="[AL]SERIALE(TURKE)" tvg-logo="https://i.imgur.com/66QjBtn.jpg",[SOL YANIM] EP.6 [$]
+#EXTINF:-1 group-title="[AL]SERIALE(TURKE)" tvg-logo="https://i.imgur.com/66QjBtn.jpg",[ANA E MAJTË] EP.6 [$]
 https://videos.files.wordpress.com/fPpPM3W8/sol6-1_mp4_dvd.mp4
-#EXTINF:-1 group-title="[AL]SERIALE(TURKE)" tvg-logo="https://i.imgur.com/66QjBtn.jpg",[SOL YANIM] EP.7 [$]
+#EXTINF:-1 group-title="[AL]SERIALE(TURKE)" tvg-logo="https://i.imgur.com/66QjBtn.jpg",[ANA E MAJTË] EP.7 [$]
 https://videos.files.wordpress.com/QeQuhyA9/sol7_mp4_dvd.mp4
-#EXTINF:-1 group-title="[AL]SERIALE(TURKE)" tvg-logo="https://i.imgur.com/66QjBtn.jpg",[SOL YANIM] EP.8 [$]
+#EXTINF:-1 group-title="[AL]SERIALE(TURKE)" tvg-logo="https://i.imgur.com/66QjBtn.jpg",[ANA E MAJTË] EP.8 [$]
 https://videos.files.wordpress.com/lf9HN0WR/sol8_mp4_dvd.mp4
-#EXTINF:-1 group-title="[AL]SERIALE(TURKE)" tvg-logo="https://i.imgur.com/66QjBtn.jpg",[SOL YANIM] EP.9 [$]
+#EXTINF:-1 group-title="[AL]SERIALE(TURKE)" tvg-logo="https://i.imgur.com/66QjBtn.jpg",[ANA E MAJTË] EP.9 [$]
 https://videos.files.wordpress.com/G3fZLMG8/sol9_mp4_dvd.mp4
-#EXTINF:-1 group-title="[AL]SERIALE(TURKE)" tvg-logo="https://i.imgur.com/66QjBtn.jpg",[SOL YANIM] EP.10 [$]
+#EXTINF:-1 group-title="[AL]SERIALE(TURKE)" tvg-logo="https://i.imgur.com/66QjBtn.jpg",[ANA E MAJTË] EP.10 [$]
 https://videos.files.wordpress.com/WIMveLb9/sol10_mp4_dvd.mp4
-#EXTINF:-1 group-title="[AL]SERIALE(TURKE)" tvg-logo="https://i.imgur.com/66QjBtn.jpg",[SOL YANIM] EP.11 [$]
+#EXTINF:-1 group-title="[AL]SERIALE(TURKE)" tvg-logo="https://i.imgur.com/66QjBtn.jpg",[ANA E MAJTË] EP.11 [$]
 https://videos.files.wordpress.com/AdmPHthD/sol11_mp4_dvd.mp4
-#EXTINF:-1 group-title="[AL]SERIALE(TURKE)" tvg-logo="https://i.imgur.com/66QjBtn.jpg",[SOL YANIM] EP.12 [$]
+#EXTINF:-1 group-title="[AL]SERIALE(TURKE)" tvg-logo="https://i.imgur.com/66QjBtn.jpg",[ANA E MAJTË] EP.12 [$]
 https://videos.files.wordpress.com/4PB1MEoA/sol12_mp4_dvd.mp4
-#EXTINF:-1 group-title="[AL]SERIALE(TURKE)" tvg-logo="https://i.imgur.com/66QjBtn.jpg",[SOL YANIM] EP.13 [$]
+#EXTINF:-1 group-title="[AL]SERIALE(TURKE)" tvg-logo="https://i.imgur.com/66QjBtn.jpg",[ANA E MAJTË] EP.13 [$]
 https://videos.files.wordpress.com/rRelIFMz/sol13_mp4_dvd.mp4
-#EXTINF:-1 group-title="[AL]SERIALE(TURKE)" tvg-logo="https://i.imgur.com/66QjBtn.jpg",[SOL YANIM] EP.14 [$]
+#EXTINF:-1 group-title="[AL]SERIALE(TURKE)" tvg-logo="https://i.imgur.com/66QjBtn.jpg",[ANA E MAJTË] EP.14 [$]
 https://videos.files.wordpress.com/5qpyISwr/sol14_mp4_dvd.mp4
-#EXTINF:-1 group-title="[AL]SERIALE(TURKE)" tvg-logo="https://i.imgur.com/66QjBtn.jpg",[SOL YANIM] EP.15 [$]
+#EXTINF:-1 group-title="[AL]SERIALE(TURKE)" tvg-logo="https://i.imgur.com/66QjBtn.jpg",[ANA E MAJTË] EP.15 [$]
 https://videos.files.wordpress.com/qVBmdLfh/sol15_mp4_dvd.mp4
-#EXTINF:-1 group-title="[AL]SERIALE(TURKE)" tvg-logo="https://i.imgur.com/66QjBtn.jpg",[SOL YANIM] EP.16 [$]
+#EXTINF:-1 group-title="[AL]SERIALE(TURKE)" tvg-logo="https://i.imgur.com/66QjBtn.jpg",[ANA E MAJTË] EP.16 [$]
 https://videos.files.wordpress.com/uA8y9Ftp/sol16_mp4_dvd.mp4
-#EXTINF:-1 group-title="[AL]SERIALE(TURKE)" tvg-logo="https://i.imgur.com/66QjBtn.jpg",[SOL YANIM] EP.17 [$]
+#EXTINF:-1 group-title="[AL]SERIALE(TURKE)" tvg-logo="https://i.imgur.com/66QjBtn.jpg",[ANA E MAJTË] EP.17 [$]
 https://videos.files.wordpress.com/36tTEWwX/sol17_mp4_dvd.mp4
-#EXTINF:-1 group-title="[AL]SERIALE(TURKE)" tvg-logo="https://i.imgur.com/66QjBtn.jpg",[SOL YANIM] EP.18 [$]
+#EXTINF:-1 group-title="[AL]SERIALE(TURKE)" tvg-logo="https://i.imgur.com/66QjBtn.jpg",[ANA E MAJTË] EP.18 [$]
 https://videos.files.wordpress.com/M4RydFao/sol18_mp4_dvd.mp4
-#EXTINF:-1 group-title="[AL]SERIALE(TURKE)" tvg-logo="https://i.imgur.com/66QjBtn.jpg",[SOL YANIM] EP.19 [$]
+#EXTINF:-1 group-title="[AL]SERIALE(TURKE)" tvg-logo="https://i.imgur.com/66QjBtn.jpg",[ANA E MAJTË] EP.19 [$]
 https://videos.files.wordpress.com/rrbXVEWY/sol19_mp4_dvd.mp4
-#EXTINF:-1 group-title="[AL]SERIALE(TURKE)" tvg-logo="https://i.imgur.com/66QjBtn.jpg",[SOL YANIM] EP.20 [$]
+#EXTINF:-1 group-title="[AL]SERIALE(TURKE)" tvg-logo="https://i.imgur.com/66QjBtn.jpg",[ANA E MAJTË] EP.20 [$]
 https://videos.files.wordpress.com/7fwgz1QT/sol20_mp4_dvd.mp4
-#EXTINF:-1 group-title="[AL]SERIALE(TURKE)" tvg-logo="https://i.imgur.com/66QjBtn.jpg",[SOL YANIM] EP.21 [$]
+#EXTINF:-1 group-title="[AL]SERIALE(TURKE)" tvg-logo="https://i.imgur.com/66QjBtn.jpg",[ANA E MAJTË] EP.21 [$]
 https://videos.files.wordpress.com/pQbXLI01/sol21_mp4_dvd.mp4
-#EXTINF:-1 group-title="[AL]SERIALE(TURKE)" tvg-logo="https://i.imgur.com/66QjBtn.jpg",[SOL YANIM] EP.22 [$]
+#EXTINF:-1 group-title="[AL]SERIALE(TURKE)" tvg-logo="https://i.imgur.com/66QjBtn.jpg",[ANA E MAJTË] EP.22 [$]
 https://videos.files.wordpress.com/LRonMs0L/sol22_mp4_dvd.mp4
-#EXTINF:-1 group-title="[AL]SERIALE(TURKE)" tvg-logo="https://i.imgur.com/66QjBtn.jpg",[SOL YANIM] EP.23 [$]
+#EXTINF:-1 group-title="[AL]SERIALE(TURKE)" tvg-logo="https://i.imgur.com/66QjBtn.jpg",[ANA E MAJTË] EP.23 [$]
 https://videos.files.wordpress.com/d7yVsP7I/sol23_mp4_dvd.mp4
-#EXTINF:-1 group-title="[AL]SERIALE(TURKE)" tvg-logo="https://i.imgur.com/66QjBtn.jpg",[SOL YANIM] EP.24 [$]
+#EXTINF:-1 group-title="[AL]SERIALE(TURKE)" tvg-logo="https://i.imgur.com/66QjBtn.jpg",[ANA E MAJTË] EP.24 [$]
 https://videos.files.wordpress.com/x63r8cPm/sol24_mp4_dvd.mp4
-#EXTINF:-1 group-title="[AL]SERIALE(TURKE)" tvg-logo="https://i.imgur.com/66QjBtn.jpg",[SOL YANIM] EP.25 [$]
+#EXTINF:-1 group-title="[AL]SERIALE(TURKE)" tvg-logo="https://i.imgur.com/66QjBtn.jpg",[ANA E MAJTË] EP.25 [$]
 https://videos.files.wordpress.com/XnD64yrJ/sol25_mp4_dvd.mp4
-#EXTINF:-1 group-title="[AL]SERIALE(TURKE)" tvg-logo="https://i.imgur.com/66QjBtn.jpg",[SOL YANIM] EP.26 [$]
+#EXTINF:-1 group-title="[AL]SERIALE(TURKE)" tvg-logo="https://i.imgur.com/66QjBtn.jpg",[ANA E MAJTË] EP.26 [$]
 https://videos.files.wordpress.com/toJwFTLC/sol26_mp4_dvd.mp4
-#EXTINF:-1 group-title="[AL]SERIALE(TURKE)" tvg-logo="https://i.imgur.com/66QjBtn.jpg",[SOL YANIM] EP.27 [$]
+#EXTINF:-1 group-title="[AL]SERIALE(TURKE)" tvg-logo="https://i.imgur.com/66QjBtn.jpg",[ANA E MAJTË] EP.27 [$]
 https://videos.files.wordpress.com/O8ShBWmn/sol27_mp4_dvd.mp4
-#EXTINF:-1 group-title="[AL]SERIALE(TURKE)" tvg-logo="https://i.imgur.com/66QjBtn.jpg",[SOL YANIM] EP.28 [$]
+#EXTINF:-1 group-title="[AL]SERIALE(TURKE)" tvg-logo="https://i.imgur.com/66QjBtn.jpg",[ANA E MAJTË] EP.28 [$]
 https://videos.files.wordpress.com/yyMGCiGW/sol28_mp4_dvd.mp4
-#EXTINF:-1 group-title="[AL]SERIALE(TURKE)" tvg-logo="https://i.imgur.com/66QjBtn.jpg",[SOL YANIM] EP.29 [$]
+#EXTINF:-1 group-title="[AL]SERIALE(TURKE)" tvg-logo="https://i.imgur.com/66QjBtn.jpg",[ANA E MAJTË] EP.29 [$]
 https://videos.files.wordpress.com/2tomEYvH/sol29_mp4_dvd.mp4
-#EXTINF:-1 group-title="[AL]SERIALE(TURKE)" tvg-logo="https://i.imgur.com/66QjBtn.jpg",[SOL YANIM] EP.30 [$]
+#EXTINF:-1 group-title="[AL]SERIALE(TURKE)" tvg-logo="https://i.imgur.com/66QjBtn.jpg",[ANA E MAJTË] EP.30 [$]
 https://videos.files.wordpress.com/FxOaLRZH/sol30_mp4_dvd.mp4
-#EXTINF:-1 group-title="[AL]SERIALE(TURKE)" tvg-logo="https://i.imgur.com/66QjBtn.jpg",[SOL YANIM] EP.31 [$]
+#EXTINF:-1 group-title="[AL]SERIALE(TURKE)" tvg-logo="https://i.imgur.com/66QjBtn.jpg",[ANA E MAJTË] EP.31 [$]
 https://videos.files.wordpress.com/0EE2yjiW/sol31_mp4_dvd.mp4
-#EXTINF:-1 group-title="[AL]SERIALE(TURKE)" tvg-logo="https://i.imgur.com/66QjBtn.jpg",[SOL YANIM] EP.32 [$]
+#EXTINF:-1 group-title="[AL]SERIALE(TURKE)" tvg-logo="https://i.imgur.com/66QjBtn.jpg",[ANA E MAJTË] EP.32 [$]
 https://videos.files.wordpress.com/uwbY6lo5/sol32_mp4_dvd.mp4
-#EXTINF:-1 group-title="[AL]SERIALE(TURKE)" tvg-logo="https://i.imgur.com/66QjBtn.jpg",[SOL YANIM] EP.33 [$]
+#EXTINF:-1 group-title="[AL]SERIALE(TURKE)" tvg-logo="https://i.imgur.com/66QjBtn.jpg",[ANA E MAJTË] EP.33 [$]
 https://videos.files.wordpress.com/LclNYEyn/sol33_mp4_dvd.mp4
-#EXTINF:-1 group-title="[AL]SERIALE(TURKE)" tvg-logo="https://i.imgur.com/66QjBtn.jpg",[SOL YANIM] EP.34 [$]
+#EXTINF:-1 group-title="[AL]SERIALE(TURKE)" tvg-logo="https://i.imgur.com/66QjBtn.jpg",[ANA E MAJTË] EP.34 [$]
 https://videos.files.wordpress.com/feUAi5Mk/sol34_mp4_dvd.mp4
-#EXTINF:-1 group-title="[AL]SERIALE(TURKE)" tvg-logo="https://i.imgur.com/66QjBtn.jpg",[SOL YANIM] EP.35 [$]
+#EXTINF:-1 group-title="[AL]SERIALE(TURKE)" tvg-logo="https://i.imgur.com/66QjBtn.jpg",[ANA E MAJTË] EP.35 [$]
 https://videos.files.wordpress.com/dHrPTHQI/sol35_mp4_dvd.mp4
-#EXTINF:-1 group-title="[AL]SERIALE(TURKE)" tvg-logo="https://i.imgur.com/66QjBtn.jpg",[SOL YANIM] EP.36 [$]
+#EXTINF:-1 group-title="[AL]SERIALE(TURKE)" tvg-logo="https://i.imgur.com/66QjBtn.jpg",[ANA E MAJTË] EP.36 [$]
 https://videos.files.wordpress.com/h69p4HZd/sol36_mp4_dvd.mp4
+
+#EXTINF:-1 group-title="[AL]SERIALE(TURKE)" tvg-logo="https://i.imgur.com/e54FRuE.jpg",[ZEHRA] EP.1 [$]
+https://videos.files.wordpress.com/LtQoi40s/az1.1_mp4_dvd.mp4
+#EXTINF:-1 group-title="[AL]SERIALE(TURKE)" tvg-logo="https://i.imgur.com/e54FRuE.jpg",[ZEHRA] EP.2 [$]
+https://videos.files.wordpress.com/24fp3yyO/az1.2_mp4_dvd.mp4
+#EXTINF:-1 group-title="[AL]SERIALE(TURKE)" tvg-logo="https://i.imgur.com/e54FRuE.jpg",[ZEHRA] EP.3 [$]
+https://videos.files.wordpress.com/nXSWcY66/az1.3_mp4_dvd.mp4
+#EXTINF:-1 group-title="[AL]SERIALE(TURKE)" tvg-logo="https://i.imgur.com/e54FRuE.jpg",[ZEHRA] EP.4 [$]
+https://videos.files.wordpress.com/1bp1Gn0f/az1.4_mp4_dvd.mp4
+#EXTINF:-1 group-title="[AL]SERIALE(TURKE)" tvg-logo="https://i.imgur.com/e54FRuE.jpg",[ZEHRA] EP.5 [$]
+https://videos.files.wordpress.com/vsTXme7f/az2.1_mp4_dvd.mp4
+#EXTINF:-1 group-title="[AL]SERIALE(TURKE)" tvg-logo="https://i.imgur.com/e54FRuE.jpg",[ZEHRA] EP.6 [$]
+https://videos.files.wordpress.com/jnEfXSSF/az2.2_mp4_dvd.mp4
+#EXTINF:-1 group-title="[AL]SERIALE(TURKE)" tvg-logo="https://i.imgur.com/e54FRuE.jpg",[ZEHRA] EP.7 [$]
+https://videos.files.wordpress.com/b8MAh3py/az2.3_mp4_dvd.mp4
+#EXTINF:-1 group-title="[AL]SERIALE(TURKE)" tvg-logo="https://i.imgur.com/e54FRuE.jpg",[ZEHRA] EP.8 [$]
+https://videos.files.wordpress.com/TkEsxxJW/az2.4_mp4_dvd.mp4
+#EXTINF:-1 group-title="[AL]SERIALE(TURKE)" tvg-logo="https://i.imgur.com/e54FRuE.jpg",[ZEHRA] EP.9 [$]
+https://videos.files.wordpress.com/Rycai2Sx/az3.1_mp4_dvd.mp4
+#EXTINF:-1 group-title="[AL]SERIALE(TURKE)" tvg-logo="https://i.imgur.com/e54FRuE.jpg",[ZEHRA] EP.10 [$]
+https://videos.files.wordpress.com/sTbuYQ44/az3.2_mp4_dvd.mp4
+#EXTINF:-1 group-title="[AL]SERIALE(TURKE)" tvg-logo="https://i.imgur.com/e54FRuE.jpg",[ZEHRA] EP.11 [$]
+https://videos.files.wordpress.com/JCnUBVRz/az3-1.3_mp4_dvd.mp4
+#EXTINF:-1 group-title="[AL]SERIALE(TURKE)" tvg-logo="https://i.imgur.com/e54FRuE.jpg",[ZEHRA] EP.12 [$]
+https://videos.files.wordpress.com/GLFRD6Hd/az3-1.4_mp4_dvd.mp4
+#EXTINF:-1 group-title="[AL]SERIALE(TURKE)" tvg-logo="https://i.imgur.com/e54FRuE.jpg",[ZEHRA] EP.13 [$]
+https://videos.files.wordpress.com/mr5PlSQa/az4.1_mp4_dvd.mp4
+#EXTINF:-1 group-title="[AL]SERIALE(TURKE)" tvg-logo="https://i.imgur.com/e54FRuE.jpg",[ZEHRA] EP.14 [$]
+https://videos.files.wordpress.com/crQpbc5c/az4.2_mp4_dvd.mp4
+#EXTINF:-1 group-title="[AL]SERIALE(TURKE)" tvg-logo="https://i.imgur.com/e54FRuE.jpg",[ZEHRA] EP.15 [$]
+https://videos.files.wordpress.com/SFtiftab/az4.3_mp4_dvd.mp4
+#EXTINF:-1 group-title="[AL]SERIALE(TURKE)" tvg-logo="https://i.imgur.com/e54FRuE.jpg",[ZEHRA] EP.16 [$]
+https://videos.files.wordpress.com/uWfvTY9s/az4.4_mp4_dvd.mp4
+#EXTINF:-1 group-title="[AL]SERIALE(TURKE)" tvg-logo="https://i.imgur.com/e54FRuE.jpg",[ZEHRA] EP.17 [$]
+https://videos.files.wordpress.com/TejDqlAb/az5.1_mp4_dvd.mp4
+#EXTINF:-1 group-title="[AL]SERIALE(TURKE)" tvg-logo="https://i.imgur.com/e54FRuE.jpg",[ZEHRA] EP.18 [$]
+https://videos.files.wordpress.com/cerFHjhU/az5.2_mp4_dvd.mp4
+#EXTINF:-1 group-title="[AL]SERIALE(TURKE)" tvg-logo="https://i.imgur.com/e54FRuE.jpg",[ZEHRA] EP.19 [$]
+https://videos.files.wordpress.com/yJ8VohiJ/az5.3_mp4_dvd.mp4
+#EXTINF:-1 group-title="[AL]SERIALE(TURKE)" tvg-logo="https://i.imgur.com/e54FRuE.jpg",[ZEHRA] EP.20 [$]
+https://videos.files.wordpress.com/aqTWemHh/az5.4_mp4_dvd.mp4
+#EXTINF:-1 group-title="[AL]SERIALE(TURKE)" tvg-logo="https://i.imgur.com/e54FRuE.jpg",[ZEHRA] EP.21 [$]
+https://videos.files.wordpress.com/1GqeQXFN/az6.1_mp4_dvd.mp4
+#EXTINF:-1 group-title="[AL]SERIALE(TURKE)" tvg-logo="https://i.imgur.com/e54FRuE.jpg",[ZEHRA] EP.22 [$]
+https://videos.files.wordpress.com/BexXw0bY/az6.2_mp4_dvd.mp4
+#EXTINF:-1 group-title="[AL]SERIALE(TURKE)" tvg-logo="https://i.imgur.com/e54FRuE.jpg",[ZEHRA] EP.23 [$]
+https://videos.files.wordpress.com/CvExA3o1/az6.3_mp4_dvd.mp4
+#EXTINF:-1 group-title="[AL]SERIALE(TURKE)" tvg-logo="https://i.imgur.com/e54FRuE.jpg",[ZEHRA] EP.24 [$]
+https://videos.files.wordpress.com/Ih1L1CKP/az6.4_mp4_dvd.mp4
+#EXTINF:-1 group-title="[AL]SERIALE(TURKE)" tvg-logo="https://i.imgur.com/e54FRuE.jpg",[ZEHRA] EP.25 [$]
+https://videos.files.wordpress.com/2g3xDyKe/az7.1_mp4_dvd.mp4
+#EXTINF:-1 group-title="[AL]SERIALE(TURKE)" tvg-logo="https://i.imgur.com/e54FRuE.jpg",[ZEHRA] EP.26 [$]
+https://videos.files.wordpress.com/DVWdyTl5/az7.2_mp4_dvd.mp4
+#EXTINF:-1 group-title="[AL]SERIALE(TURKE)" tvg-logo="https://i.imgur.com/e54FRuE.jpg",[ZEHRA] EP.27 [$]
+https://videos.files.wordpress.com/SxswuEUB/az7.3_mp4_dvd.mp4
+#EXTINF:-1 group-title="[AL]SERIALE(TURKE)" tvg-logo="https://i.imgur.com/e54FRuE.jpg",[ZEHRA] EP.28 [$]
+https://videos.files.wordpress.com/VyCqKR4H/az7-2.4_mp4_dvd.mp4
+#EXTINF:-1 group-title="[AL]SERIALE(TURKE)" tvg-logo="https://i.imgur.com/e54FRuE.jpg",[ZEHRA] EP.30 [$]
+https://videos.files.wordpress.com/pYB1Pabg/az8.1_mp4_dvd.mp4
+#EXTINF:-1 group-title="[AL]SERIALE(TURKE)" tvg-logo="https://i.imgur.com/e54FRuE.jpg",[ZEHRA] EP.31 [$]
+https://videos.files.wordpress.com/NJ7RxGR7/az8.2_mp4_dvd.mp4
+#EXTINF:-1 group-title="[AL]SERIALE(TURKE)" tvg-logo="https://i.imgur.com/e54FRuE.jpg",[ZEHRA] EP.32 [$]
+https://videos.files.wordpress.com/ezHg8U3D/az8.3_mp4_dvd.mp4
+#EXTINF:-1 group-title="[AL]SERIALE(TURKE)" tvg-logo="https://i.imgur.com/e54FRuE.jpg",[ZEHRA] EP.33 [$]
+https://videos.files.wordpress.com/pO4Jds9s/az8.4_mp4_dvd.mp4
+#EXTINF:-1 group-title="[AL]SERIALE(TURKE)" tvg-logo="https://i.imgur.com/e54FRuE.jpg",[ZEHRA] EP.34 [$]
+https://videos.files.wordpress.com/t2jDDS9W/az9.1_mp4_dvd.mp4
+#EXTINF:-1 group-title="[AL]SERIALE(TURKE)" tvg-logo="https://i.imgur.com/e54FRuE.jpg",[ZEHRA] EP.35 [$]
+https://videos.files.wordpress.com/S7dGl0bE/az9.2_mp4_dvd.mp4
+#EXTINF:-1 group-title="[AL]SERIALE(TURKE)" tvg-logo="https://i.imgur.com/e54FRuE.jpg",[ZEHRA] EP.36 [$]
+https://videos.files.wordpress.com/Zw8Z5NEW/az9.3_mp4_dvd.mp4
+#EXTINF:-1 group-title="[AL]SERIALE(TURKE)" tvg-logo="https://i.imgur.com/e54FRuE.jpg",[ZEHRA] EP.37 [$]
+https://videos.files.wordpress.com/j0ccAhTm/az9.4_mp4_dvd.mp4
+#EXTINF:-1 group-title="[AL]SERIALE(TURKE)" tvg-logo="https://i.imgur.com/e54FRuE.jpg",[ZEHRA] EP.38 [$]
+https://videos.files.wordpress.com/K8b58T3Q/az9.5_mp4_dvd.mp4
+#EXTINF:-1 group-title="[AL]SERIALE(TURKE)" tvg-logo="https://i.imgur.com/e54FRuE.jpg",[ZEHRA] EP.39 [$]
+https://videos.files.wordpress.com/GiXz8H5X/az10.1_mp4_dvd.mp4
+#EXTINF:-1 group-title="[AL]SERIALE(TURKE)" tvg-logo="https://i.imgur.com/e54FRuE.jpg",[ZEHRA] EP.40 [$]
+https://videos.files.wordpress.com/HXDLOLwA/az10.2_mp4_dvd.mp4
+#EXTINF:-1 group-title="[AL]SERIALE(TURKE)" tvg-logo="https://i.imgur.com/e54FRuE.jpg",[ZEHRA] EP.41 [$]
+https://videos.files.wordpress.com/DX8ZKv2B/az10.3_mp4_dvd.mp4
+#EXTINF:-1 group-title="[AL]SERIALE(TURKE)" tvg-logo="https://i.imgur.com/e54FRuE.jpg",[ZEHRA] EP.42 [$]
+https://videos.files.wordpress.com/pkvCVUBw/az10.4_mp4_dvd.mp4
+#EXTINF:-1 group-title="[AL]SERIALE(TURKE)" tvg-logo="https://i.imgur.com/e54FRuE.jpg",[ZEHRA] EP.43 [$]
+https://videos.files.wordpress.com/FQdRhUnq/az11.1_mp4_dvd.mp4
+#EXTINF:-1 group-title="[AL]SERIALE(TURKE)" tvg-logo="https://i.imgur.com/e54FRuE.jpg",[ZEHRA] EP.44 [$]
+https://videos.files.wordpress.com/OSo1e85n/az11.2_mp4_dvd.mp4
+#EXTINF:-1 group-title="[AL]SERIALE(TURKE)" tvg-logo="https://i.imgur.com/e54FRuE.jpg",[ZEHRA] EP.45 [$]
+https://videos.files.wordpress.com/EtJpepT9/az11.3_mp4_dvd.mp4
+#EXTINF:-1 group-title="[AL]SERIALE(TURKE)" tvg-logo="https://i.imgur.com/e54FRuE.jpg",[ZEHRA] EP.46 [$]
+https://videos.files.wordpress.com/1eayNwo9/az11.4_mp4_dvd.mp4
+#EXTINF:-1 group-title="[AL]SERIALE(TURKE)" tvg-logo="https://i.imgur.com/e54FRuE.jpg",[ZEHRA] EP.47 [$]
+https://videos.files.wordpress.com/fQ29C7D9/az12.1_mp4_dvd.mp4
+#EXTINF:-1 group-title="[AL]SERIALE(TURKE)" tvg-logo="https://i.imgur.com/e54FRuE.jpg",[ZEHRA] EP.48 [$]
+https://videos.files.wordpress.com/l2w46oFh/az12.2_mp4_dvd.mp4
+#EXTINF:-1 group-title="[AL]SERIALE(TURKE)" tvg-logo="https://i.imgur.com/e54FRuE.jpg",[ZEHRA] EP.49 [$]
+https://videos.files.wordpress.com/gxUS8bwI/az12.3_mp4_dvd.mp4
+#EXTINF:-1 group-title="[AL]SERIALE(TURKE)" tvg-logo="https://i.imgur.com/e54FRuE.jpg",[ZEHRA] EP.50 [$]
+https://videos.files.wordpress.com/QNVE0rLm/az12.4_mp4_dvd.mp4
+#EXTINF:-1 group-title="[AL]SERIALE(TURKE)" tvg-logo="https://i.imgur.com/e54FRuE.jpg",[ZEHRA] EP.51 [$]
+https://videos.files.wordpress.com/uHVTsxfN/az13.1_mp4_dvd.mp4
+#EXTINF:-1 group-title="[AL]SERIALE(TURKE)" tvg-logo="https://i.imgur.com/e54FRuE.jpg",[ZEHRA] EP.52 [$]
+https://videos.files.wordpress.com/lNu1LsxY/az13.2_mp4_dvd.mp4
+#EXTINF:-1 group-title="[AL]SERIALE(TURKE)" tvg-logo="https://i.imgur.com/e54FRuE.jpg",[ZEHRA] EP.53 [$]
+https://videos.files.wordpress.com/iekMotdY/az13.3_mp4_dvd.mp4
+#EXTINF:-1 group-title="[AL]SERIALE(TURKE)" tvg-logo="https://i.imgur.com/e54FRuE.jpg",[ZEHRA] EP.54 [$]
+https://videos.files.wordpress.com/1m3glAVu/az13.4_mp4_dvd.mp4
+#EXTINF:-1 group-title="[AL]SERIALE(TURKE)" tvg-logo="https://i.imgur.com/e54FRuE.jpg",[ZEHRA] EP.55 [$]
+https://videos.files.wordpress.com/RnjtAOmV/az14.1_mp4_dvd.mp4
+#EXTINF:-1 group-title="[AL]SERIALE(TURKE)" tvg-logo="https://i.imgur.com/e54FRuE.jpg",[ZEHRA] EP.56 [$]
+https://videos.files.wordpress.com/foEYLqXN/az14.2_mp4_dvd.mp4
+#EXTINF:-1 group-title="[AL]SERIALE(TURKE)" tvg-logo="https://i.imgur.com/e54FRuE.jpg",[ZEHRA] EP.57 [$]
+https://videos.files.wordpress.com/tBKszqM1/az14.3_mp4_dvd.mp4
+#EXTINF:-1 group-title="[AL]SERIALE(TURKE)" tvg-logo="https://i.imgur.com/e54FRuE.jpg",[ZEHRA] EP.58 [$]
+https://videos.files.wordpress.com/QYoSMWny/az14.4_mp4_dvd.mp4
 
 #EXTINF:-1 group-title="[AL]SERIALE(NETFLIX)" tvg-logo="https://i.imgur.com/u3Jk2mc.jpg",[THE TAKE] SEZ 01 EP 01[$]*
 https://videos.files.wordpress.com/iGElkWw6/take1.1_hd.mp4
@@ -3162,6 +3253,8 @@ https://videos.files.wordpress.com/fL6VGOxt/alien6_mp4_dvd.mp4
 https://videos.files.wordpress.com/6X5qdtdm/alien7_mp4_dvd.mp4
 #EXTINF:-1 group-title="[AL]SERIALE(NETFLIX)" tvg-logo="https://i.ibb.co/wBnQyX5/AL.jpg",[RESIDENT ALIEN] SEZ 01 EP 08[$]
 https://videos.files.wordpress.com/uodNjYRI/alien8_mp4_dvd.mp4
+#EXTINF:-1 group-title="[AL]SERIALE(NETFLIX)" tvg-logo="https://i.ibb.co/wBnQyX5/AL.jpg",[RESIDENT ALIEN] SEZ 01 EP 09[$]
+https://videos.files.wordpress.com/BJ9OFgW9/s9_mp4_dvd.mp4
 
 #EXTINF:-1 group-title="[AL]SERIALE(NETFLIX)" tvg-logo="https://i.imgur.com/Hp7f57O.jpg",[THE WITCHER] SEZ 01 EP 01[$]*
 https://videos.files.wordpress.com/szrQaxHm/w1.1_dvd.mp4

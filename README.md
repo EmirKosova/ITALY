@@ -346,122 +346,140 @@ https://videos.files.wordpress.com/ShafYOdr/ujori_dvd.mp4
 #EXTINF:0 group-title="[AL]HOROSKOPI 2021",[$]12-PESHQIT
 https://videos.files.wordpress.com/0QN5Pb19/peshqit_dvd.mp4
 
-#EXTINF:0 group-title="[AL]FILMA",[$]FILM NJE HD
+#EXTINF:0 group-title="[AL]DIGITALB FILM",[$]FILM NJE HD
 http://skyhd-iptv.com:2095/sarandetv/MuyGXoytPN/306
-#EXTINF:0 group-title="[AL]FILMA",[$]Film Dy HD
+#EXTINF:0 group-title="[AL]DIGITALB FILM",[$]Film Dy HD
 http://skyhd-iptv.com:2095/sarandetv/MuyGXoytPN/309
-#EXTINF:0 group-title="[AL]FILMA",[$]Film Aksion HD
+#EXTINF:0 group-title="[AL]DIGITALB FILM",[$]Film Aksion HD
 http://skyhd-iptv.com:2095/sarandetv/MuyGXoytPN/312
-#EXTINF:0 group-title="[AL]FILMA",[$]Film Thriller
+#EXTINF:0 group-title="[AL]DIGITALB FILM",[$]Film Thriller
 http://skyhd-iptv.com:2095/sarandetv/MuyGXoytPN/305
-#EXTINF:0 group-title="[AL]FILMA",[$]Film Hits HD
+#EXTINF:0 group-title="[AL]DIGITALB FILM",[$]Film Hits HD
 http://skyhd-iptv.com:2095/sarandetv/MuyGXoytPN/308
-#EXTINF:0 group-title="[AL]FILMA",[$]Family HD
+#EXTINF:0 group-title="[AL]DIGITALB FILM",[$]Family HD
 http://skyhd-iptv.com:2095/sarandetv/MuyGXoytPN/314
-#EXTINF:0 group-title="[AL]FILMA",[$]Film Komedi
+#EXTINF:0 group-title="[AL]DIGITALB FILM",[$]Film Komedi
 http://skyhd-iptv.com:2095/sarandetv/MuyGXoytPN/307
-#EXTINF:0 group-title="[AL]FILMA",[$]Film Drame
+#EXTINF:0 group-title="[AL]DIGITALB FILM",[$]Film Drame
 http://skyhd-iptv.com:2095/sarandetv/MuyGXoytPN/310
-#EXTINF:0 group-title="[AL]FILMA",[$]Film Autor
+#EXTINF:0 group-title="[AL]DIGITALB FILM",[$]Film Autor
 http://skyhd-iptv.com:2095/sarandetv/MuyGXoytPN/311
-#EXTINF:0 group-title="[AL]FILMA",[$]Eurofilm
+#EXTINF:0 group-title="[AL]DIGITALB FILM",[$]Eurofilm
 http://skyhd-iptv.com:2095/sarandetv/MuyGXoytPN/318
-#EXTINF:0 group-title="[AL]FILMA",[$]Stinet
+#EXTINF:0 group-title="[AL]DIGITALB FILM",[$]Stinet
 http://skyhd-iptv.com:2095/sarandetv/MuyGXoytPN/244
-#EXTINF:0 group-title="[AL]FILMA",[$]T HD
+#EXTINF:0 group-title="[AL]DIGITALB FILM",[$]T HD
 http://skyhd-iptv.com:2095/sarandetv/MuyGXoytPN/241
-#EXTINF:0 group-title="[AL]FILMA",[$]Seriale Turke HD
-http://skyhd-iptv.com:2095/sarandetv/MuyGXoytPN/239
-#EXTINF:0 group-title="[AL]FILMA",[$]Tring International
+
+#EXTINF:0 group-title="[AL]TRING FILM",[$]Tring International
 http://skyhd-iptv.com:2095/sarandetv/MuyGXoytPN/228
-#EXTINF:0 group-title="[AL]FILMA",[$]Kanal D Drama
+#EXTINF:0 group-title="[AL]TRING FILM",[$]Kanal D Drama
 http://skyhd-iptv.com:2095/sarandetv/MuyGXoytPN/17318
-#EXTINF:0 group-title="[AL]FILMA",[$]Living HD
+#EXTINF:0 group-title="[AL]TRING FILM",[$]Living HD
 http://skyhd-iptv.com:2095/sarandetv/MuyGXoytPN/283
-#EXTINF:0 group-title="[AL]FILMA",[$]Jolly HD
+#EXTINF:0 group-title="[AL]TRING FILM",[$]Jolly HD
 http://skyhd-iptv.com:2095/sarandetv/MuyGXoytPN/298
-#EXTINF:0 group-title="[AL]FILMA",[$]Tring Super HD
+#EXTINF:0 group-title="[AL]TRING FILM",[$]Tring Super HD
 http://skyhd-iptv.com:2095/sarandetv/MuyGXoytPN/224
-#EXTINF:0 group-title="[AL]FILMA",[$]Tring Fantasy
+#EXTINF:0 group-title="[AL]TRING FILM",[$]Tring Fantasy
 http://skyhd-iptv.com:2095/sarandetv/MuyGXoytPN/230
-#EXTINF:0 group-title="[AL]FILMA",[$]Tring Comedy
+#EXTINF:0 group-title="[AL]TRING FILM",[$]Tring Comedy
 http://skyhd-iptv.com:2095/sarandetv/MuyGXoytPN/231
-#EXTINF:0 group-title="[AL]FILMA",[$]Tring Action
+#EXTINF:0 group-title="[AL]TRING FILM",[$]Tring Action
 http://skyhd-iptv.com:2095/sarandetv/MuyGXoytPN/232
-#EXTINF:0 group-title="[AL]FILMA",[$]Tring Shqip
+#EXTINF:0 group-title="[AL]TRING FILM",[$]Tring Shqip
 http://skyhd-iptv.com:2095/sarandetv/MuyGXoytPN/225
-#EXTINF:0 group-title="[AL]FILMA",[$]Tring 3 Plus
+#EXTINF:0 group-title="[AL]TRING FILM",[$]Tring 3 Plus
 http://skyhd-iptv.com:2095/sarandetv/MuyGXoytPN/233
-#EXTINF:0 group-title="[AL]FILMA",[$]Tring Life
+#EXTINF:0 group-title="[AL]TRING FILM",[$]Tring Life
 http://skyhd-iptv.com:2095/sarandetv/MuyGXoytPN/227
-#EXTINF:0 group-title="[AL]FILMA",[$]Muse
+#EXTINF:0 group-title="[AL]TRING FILM",[$]Muse
 http://skyhd-iptv.com:2095/sarandetv/MuyGXoytPN/276
-#EXTINF:0 group-title="[AL]FILMA",[$]Smile
+#EXTINF:0 group-title="[AL]TRING FILM",[$]Smile
 http://skyhd-iptv.com:2095/sarandetv/MuyGXoytPN/246
-#EXTINF:0 group-title="[AL]FILMA",[$]Fox
+#EXTINF:0 group-title="[AL]TRING FILM",[$]Fox
 http://skyhd-iptv.com:2095/sarandetv/MuyGXoytPN/301
-#EXTINF:0 group-title="[AL]FILMA",[$]Fox Life
+#EXTINF:0 group-title="[AL]TRING FILM",[$]Fox Life
 http://skyhd-iptv.com:2095/sarandetv/MuyGXoytPN/300
-#EXTINF:0 group-title="[AL]FILMA",[$]FOX Movies
+#EXTINF:0 group-title="[AL]TRING FILM",[$]FOX Movies
 http://skyhd-iptv.com:2095/sarandetv/MuyGXoytPN/366
-#EXTINF:0 group-title="[AL]FILMA",[$]TELE one 1HD
+
+#EXTINF:0 group-title="[AL]TELEONE FILM",[$]TELE one 1HD
 http://skyhd-iptv.com:2095/sarandetv/MuyGXoytPN/17517
-#EXTINF:0 group-title="[AL]FILMA",[$]TELE one 2HD
+#EXTINF:0 group-title="[AL]TELEONE FILM",[$]TELE one 2HD
 http://skyhd-iptv.com:2095/sarandetv/MuyGXoytPN/17518
-#EXTINF:0 group-title="[AL]FILMA",[$]TELE one 3HD
+#EXTINF:0 group-title="[AL]TELEONE FILM",[$]TELE one 3HD
 http://skyhd-iptv.com:2095/sarandetv/MuyGXoytPN/17519
-#EXTINF:0 group-title="[AL]FILMA",[$]TELE one 4HD
+#EXTINF:0 group-title="[AL]TELEONE FILM",[$]TELE one 4HD
 http://skyhd-iptv.com:2095/sarandetv/MuyGXoytPN/17520
-#EXTINF:0 group-title="[AL]FILMA",[$]TELE one 5HD
+#EXTINF:0 group-title="[AL]TELEONE FILM",[$]TELE one 5HD
 http://skyhd-iptv.com:2095/sarandetv/MuyGXoytPN/17521
-#EXTINF:0 group-title="[AL]FILMA",[$]TELE one Shqip
+#EXTINF:0 group-title="[AL]TELEONE FILM",[$]TELE one Shqip
 http://skyhd-iptv.com:2095/sarandetv/MuyGXoytPN/17523
-#EXTINF:0 group-title="[AL]FILMA",[$]TELE one Aksion HD
+#EXTINF:0 group-title="[AL]TELEONE FILM",[$]TELE one Aksion HD
 http://skyhd-iptv.com:2095/sarandetv/MuyGXoytPN/17524
-#EXTINF:0 group-title="[AL]FILMA",[$]TELE one Aventure HD
+#EXTINF:0 group-title="[AL]TELEONE FILM",[$]TELE one Aventure HD
 http://skyhd-iptv.com:2095/sarandetv/MuyGXoytPN/17525
-#EXTINF:0 group-title="[AL]FILMA",[$]TELE one Crime HD
+#EXTINF:0 group-title="[AL]TELEONE FILM",[$]TELE one Crime HD
 http://skyhd-iptv.com:2095/sarandetv/MuyGXoytPN/17526
-#EXTINF:0 group-title="[AL]FILMA",[$]TELE one GOLD Collection HD
+#EXTINF:0 group-title="[AL]TELEONE FILM",[$]TELE one GOLD Collection HD
 http://skyhd-iptv.com:2095/sarandetv/MuyGXoytPN/17527
-#EXTINF:0 group-title="[AL]FILMA",[$]TELE one fantazi HD
+#EXTINF:0 group-title="[AL]TELEONE FILM",[$]TELE one fantazi HD
 http://skyhd-iptv.com:2095/sarandetv/MuyGXoytPN/17528
-#EXTINF:0 group-title="[AL]FILMA",[$]TELE one Thriller HD
+#EXTINF:0 group-title="[AL]TELEONE FILM",[$]TELE one Thriller HD
 http://skyhd-iptv.com:2095/sarandetv/MuyGXoytPN/17529
-#EXTINF:0 group-title="[AL]FILMA",[$]TELE one Drama HD
+#EXTINF:0 group-title="[AL]TELEONE FILM",[$]TELE one Drama HD
 http://skyhd-iptv.com:2095/sarandetv/MuyGXoytPN/17530
-#EXTINF:0 group-title="[AL]FILMA",[$]X Gold 1HD
+
+#EXTINF:0 group-title="[AL]XTREM FILM",[$]X Gold 1HD
 http://skyhd-iptv.com:2095/sarandetv/MuyGXoytPN/370
-#EXTINF:0 group-title="[AL]FILMA",[$]X Gold 2HD
+#EXTINF:0 group-title="[AL]XTREM FILM",[$]X Gold 2HD
 http://skyhd-iptv.com:2095/sarandetv/MuyGXoytPN/369
-#EXTINF:0 group-title="[AL]FILMA",[$]X Gold 3HD
+#EXTINF:0 group-title="[AL]XTREM FILM",[$]X Gold 3HD
 http://skyhd-iptv.com:2095/sarandetv/MuyGXoytPN/368
-#EXTINF:0 group-title="[AL]FILMA",[$]X Gold 4HD
+#EXTINF:0 group-title="[AL]XTREM FILM",[$]X Gold 4HD
 http://skyhd-iptv.com:2095/sarandetv/MuyGXoytPN/367
-#EXTINF:0 group-title="[AL]FILMA",[$]X Premium 1HD
+#EXTINF:0 group-title="[AL]XTREM FILM",[$]X Premium 1HD
 http://skyhd-iptv.com:2095/sarandetv/MuyGXoytPN/205
-#EXTINF:0 group-title="[AL]FILMA",[$]X Premium 2HD
+#EXTINF:0 group-title="[AL]XTREM FILM",[$]X Premium 2HD
 http://skyhd-iptv.com:2095/sarandetv/MuyGXoytPN/204
-#EXTINF:0 group-title="[AL]FILMA",[$]X Premium 3HD
+#EXTINF:0 group-title="[AL]XTREM FILM",[$]X Premium 3HD
 http://skyhd-iptv.com:2095/sarandetv/MuyGXoytPN/203
-#EXTINF:0 group-title="[AL]FILMA",[$]X Premium 4HD
+#EXTINF:0 group-title="[AL]XTREM FILM",[$]X Premium 4HD
 http://skyhd-iptv.com:2095/sarandetv/MuyGXoytPN/202
-#EXTINF:0 group-title="[AL]FILMA",[$]X Western HD
+#EXTINF:0 group-title="[AL]XTREM FILM",[$]X Western HD
 http://skyhd-iptv.com:2095/sarandetv/MuyGXoytPN/198
-#EXTINF:0 group-title="[AL]FILMA",[$]X Thriller HD
+#EXTINF:0 group-title="[AL]XTREM FILM",[$]X Thriller HD
 http://skyhd-iptv.com:2095/sarandetv/MuyGXoytPN/199
-#EXTINF:0 group-title="[AL]FILMA",[$]X Scy-Fy HD
+#EXTINF:0 group-title="[AL]XTREM FILM",[$]X Scy-Fy HD
 http://skyhd-iptv.com:2095/sarandetv/MuyGXoytPN/201
-#EXTINF:0 group-title="[AL]FILMA",[$]X Family HD
+#EXTINF:0 group-title="[AL]XTREM FILM",[$]X Family HD
 http://skyhd-iptv.com:2095/sarandetv/MuyGXoytPN/209
-#EXTINF:0 group-title="[AL]FILMA",[$]X Drama HD
+#EXTINF:0 group-title="[AL]XTREM FILM",[$]X Drama HD
 http://skyhd-iptv.com:2095/sarandetv/MuyGXoytPN/210
-#EXTINF:0 group-title="[AL]FILMA",[$]X Dark HD
+#EXTINF:0 group-title="[AL]XTREM FILM",[$]X Dark HD
 http://skyhd-iptv.com:2095/sarandetv/MuyGXoytPN/211
-#EXTINF:0 group-title="[AL]FILMA",[$]X Comedy HD
+#EXTINF:0 group-title="[AL]XTREM FILM",[$]X Comedy HD
 http://skyhd-iptv.com:2095/sarandetv/MuyGXoytPN/212
-#EXTINF:0 group-title="[AL]FILMA",[$]X Action HD
+#EXTINF:0 group-title="[AL]XTREM FILM",[$]X Action HD
 http://skyhd-iptv.com:2095/sarandetv/MuyGXoytPN/213
+
+#EXTINF:0 group-title="[AL]ARTMOTION FILM",[$]ART-KINO 1HD
+http://cloudcdn.tk:80/hlFAVudb6450/mvim5H563/28175
+#EXTINF:0 group-title="[AL]ARTMOTION FILM",[$]ART-KINO 2HD
+http://93.157.62.180/ArtKino2/index.m3u8|User-Agent=stream
+#EXTINF:0 group-title="[AL]ARTMOTION FILM",[$]ART-KINO 3HD
+http://93.157.62.180/ArtKino3/index.m3u8|User-Agent=stream
+#EXTINF:0 group-title="[AL]ARTMOTION FILM",[$]EURO-CHANNEL HD
+http://84.22.33.218/EuroChannel/mpegts?token=tv
+#EXTINF:0 group-title="[AL]ARTMOTION FILM",[$]FX MEDIA HD
+https://framtetv.online/fxmediaweb5548/tracks-v1a1/mono.m3u8
+#EXTINF:0 group-title="[AL]ARTMOTION FILM",[$]FOX MOVIES
+http://93.157.62.180/FoxMovies/index.m3u8|User-Agent=stream
+#EXTINF:0 group-title="[AL]ARTMOTION FILM",[$]ALB-TV FILM 1HD
+https://t2.tvmak.com/tv/ALBFILMTV1.m3u8
+#EXTINF:0 group-title="[AL]ARTMOTION FILM",[$]ALB-TV FILM 2HD
+https://t2.tvmak.com/tv/ALBFILMTV2.m3u8
 
 #EXTINF:0 group-title="[AL]DIGI-FILM",[$]PORTOKALLI HD
 http://cloudcdn.tk:80/hlFAVudb6450/mvim5H563/19547
@@ -511,22 +529,6 @@ http://93.157.62.180/TringComedy/index.m3u8|User-Agent=stream
 http://93.157.62.180/TringShqip/index.m3u8|User-Agent=stream
 #EXTINF:0 group-title="[AL]DIGI-FILM",[$]TRING SMILE 
 http://93.157.62.180/TringSmile/index.m3u8|User-Agent=stream
-#EXTINF:0 group-title="[AL]DIGI-FILM",[$]ART-KINO 1HD
-http://cloudcdn.tk:80/hlFAVudb6450/mvim5H563/28175
-#EXTINF:0 group-title="[AL]DIGI-FILM",[$]ART-KINO 2HD
-http://93.157.62.180/ArtKino2/index.m3u8|User-Agent=stream
-#EXTINF:0 group-title="[AL]DIGI-FILM",[$]ART-KINO 3HD
-http://93.157.62.180/ArtKino3/index.m3u8|User-Agent=stream
-#EXTINF:0 group-title="[AL]DIGI-FILM",[$]EURO-CHANNEL HD
-http://84.22.33.218/EuroChannel/mpegts?token=tv
-#EXTINF:0 group-title="[AL]DIGI-FILM",[$]FX MEDIA HD
-https://framtetv.online/fxmediaweb5548/tracks-v1a1/mono.m3u8
-#EXTINF:0 group-title="[AL]DIGI-FILM",[$]FOX MOVIES
-http://93.157.62.180/FoxMovies/index.m3u8|User-Agent=stream
-#EXTINF:0 group-title="[AL]DIGI-FILM",[$]ALB-TV FILM 1HD
-https://t2.tvmak.com/tv/ALBFILMTV1.m3u8
-#EXTINF:0 group-title="[AL]DIGI-FILM",[$]ALB-TV FILM 2HD
-https://t2.tvmak.com/tv/ALBFILMTV2.m3u8
 
 #EXTINF:0 group-title="[AL]POP CORN",[$]TOTAL CINEMA 1HD
 http://srb.00387.info/tc1/index.m3u8?token=test
@@ -793,114 +795,64 @@ http://207.110.52.61:8080/s/hls/5/3570/eleven_sports_1_355/1/1/index.m3u8
 http://207.110.52.61:8080/s/hls/5/9335/eleven_sports_2_303/1/1/index.m3u8
 #EXTINF:-1 group-title="[WL]SPORTE(24/7)",[$]CANAL+SPORT HD
 http://207.110.52.61:8080/s/hls/5/293/canal_plus_sport_polska_250/1/1/tracks-v1a1/mono.m3u8
-#EXTINF:0 group-title="[WL]SPORTE(24/7)",[$]BeIN SPORTS 1HD
-http://live.netstreaming.cf/hls/201.m3u8
-#EXTINF:0 group-title="[WL]SPORTE(24/7)",[$]BeIN SPORTS 2HD
-http://live.netstreaming.cf/hls/202.m3u8
-#EXTINF:0 group-title="[WL]SPORTE(24/7)",[$]BeIN SPORTS 3HD
-http://live.netstreaming.cf/hls/203.m3u8
-#EXTINF:0 group-title="[WL]SPORTE(24/7)",[$]BeIN SPORTS 4HD
-http://live.netstreaming.cf/hls/204.m3u8
-#EXTINF:0 group-title="[WL]SPORTE(24/7)",[$]BeIN SPORTS MAX 1HD
-http://live.netstreaming.cf/hls/207.m3u8
-#EXTINF:0 group-title="[WL]SPORTE(24/7)",[$]BeIN SPORTS MAX 2HD
-http://live.netstreaming.cf/hls/208.m3u8
-#EXTINF:-1 group-title="[WL]SPORTE(24/7)",[$]TIVIBU SPOR HD
-http://live.netstreaming.cf/hls/210.m3u8
-#EXTINF:-1 group-title="[WL]SPORTE(24/7)",[$]TIVIBU SPOR 2HD
-http://live.netstreaming.cf/hls/211.m3u8
-#EXTINF:-1 group-title="[WL]SPORTE(24/7)",[$]TIVIBU SPOR 3HD
-http://live.netstreaming.cf/hls/212.m3u8
-#EXTINF:-1 group-title="[WL]SPORTE(24/7)",[$]EUROSPORT 1HD
-http://live.netstreaming.cf/hls/215.m3u8
-#EXTINF:-1 group-title="[WL]SPORTE(24/7)",[$]EUROSPORT 2HD
-http://live.netstreaming.cf/hls/216.m3u8
-#EXTINF:-1 group-title="[WL]SPORTE(24/7)",[$]S SPORT 2HD
-http://live.netstreaming.cf/hls/213.m3u8
 #EXTINF:-1 group-title="[WL]SPORTE(24/7)",[$]VIASAT SPORT HD
 http://persik.tv/stream/3602/287583/10249.m3u8 
-#EXTINF:-1 group-title="[WL]SPORTE(24/7)",[$]МАТЧ! HD
-https://95-213-224-183.livesports24.online/ooomatch.m3u8
-#EXTINF:-1 group-title="[WL]SPORTE(24/7)",[$]МАТЧ! APEHA HD 
-https://95-213-224-183.livesports24.online/rumatcharena.m3u8
-#EXTINF:-1 group-title="[WL]SPORTE(24/7)",[$]МАТЧ! BOEU HD 
-https://95-213-224-183.livesports24.online/matchboetsru.m3u8
-#EXTINF:-1 group-title="[WL]SPORTE(24/7)",[$]МАТЧ! ФУТБOЛ 1HD
-https://95-213-224-183.livesports24.online/ntvmatchfoot1.m3u8
-#EXTINF:-1 group-title="[WL]SPORTE(24/7)",[$]МАТЧ! ФУТБOЛ 2HD 
-https://95-213-224-183.livesports24.online/mfootball2rus.m3u8
-#EXTINF:-1 group-title="[WL]SPORTE(24/7)",[$]МАТЧ! ФУТБOЛ 3HD 
-https://95-213-224-183.livesports24.online/rumatchf3.m3u8
-#EXTINF:-1 group-title="[WL]SPORTE(24/7)",[$]ФУТБOЛ 1HD 
-https://95-213-224-183.livesports24.online/uafootballua1.m3u8
-#EXTINF:-1 group-title="[WL]SPORTE(24/7)",[$]ФУТБOЛ 2HD
-https://95-213-224-183.livesports24.online/fooootball2.m3u8
-#EXTINF:-1 group-title="[WL]SPORTE(24/7)",[$]SPORT 1HD
-https://95-213-224-183.livesports24.online/sport1ua.m3u8
-#EXTINF:-1 group-title="[WL]SPORTE(24/7)",[$]5 SPORT HD 
-https://95-213-224-183.livesports24.online/belarusss5.m3u8
-#EXTINF:-1 group-title="[WL]SPORTE(24/7)",[$]SETANTA SPORTS 1HD 
-https://95-213-224-183.livesports24.online/setantaukraine.m3u8
-#EXTINF:0 group-title="[WL]SPORTE(24/7)",[$]EUROSPORT 1HD 
-https://95-213-224-183.livesports24.online/eurosport1ru.m3u8
-#EXTINF:0 group-title="[WL]SPORTE(24/7)",[$]EUROSPORT 2HD
-https://95-213-224-183.livesports24.online/ruseurosport2.m3u8
 #EXTINF:-1 group-title="[WL]SPORTE(24/7)",[$]BEIN SPORTS 1HD
-http://77.83.117.60:8888/02_epl1_720p_UK/chunklist.m3u8
+http://77.83.117.60:8888/02_epl1_720p_UK/chunklist.m3u8|User-Agent=stream
 #EXTINF:-1 group-title="[WL]SPORTE(24/7)",[$]BEIN SPORTS 2HD
-http://77.83.117.60:8888/02_epl2_720p_UK/chunklist.m3u8
+http://77.83.117.60:8888/02_epl2_720p_UK/chunklist.m3u8|User-Agent=stream
 #EXTINF:0 group-title="[WL]SPORTE(24/7)",[$]TRUE PREMIER 1HD
-http://77.83.117.60:8888/02_PremierHD1_720p/chunklist.m3u8
+http://77.83.117.60:8888/02_PremierHD1_720p/chunklist.m3u8|User-Agent=stream
 #EXTINF:0 group-title="[WL]SPORTE(24/7)",[$]TRUE PREMIER 2HD 
-http://77.83.117.60:8888/02_PremierHD2_720p/chunklist.m3u8
+http://77.83.117.60:8888/02_PremierHD2_720p/chunklist.m3u8|User-Agent=stream
 #EXTINF:0 group-title="[WL]SPORTE(24/7)",[$]TRUE PREMIER 3HD 
-http://77.83.117.60:8888/02_PremierHD3_720p/chunklist.m3u8
+http://77.83.117.60:8888/02_PremierHD3_720p/chunklist.m3u8|User-Agent=stream
 #EXTINF:0 group-title="[WL]SPORTE(24/7)",[$]TRUE PREMIER 4HD 
-http://77.83.117.60:8888/02_PremierHD4_720p/chunklist.m3u8
+http://77.83.117.60:8888/02_PremierHD4_720p/chunklist.m3u8|User-Agent=stream
 #EXTINF:0 group-title="[WL]SPORTE(24/7)",[$]TRUE SPORTS HD
-http://77.83.117.60:8888/02_2sporthd1_720p/chunklist.m3u8
+http://77.83.117.60:8888/02_2sporthd1_720p/chunklist.m3u8|User-Agent=stream
 #EXTINF:0 group-title="[WL]SPORTE(24/7)",[$]TRUE SPORTS HD2
-http://77.83.117.60:8888/02_2sporthd2_720p/chunklist.m3u8
+http://77.83.117.60:8888/02_2sporthd2_720p/chunklist.m3u8|User-Agent=stream
 #EXTINF:0 group-title="[WL]SPORTE(24/7)",[$]TRUE SPORTS HD3 
-http://77.83.117.60:8888/02_2sporthd3_720p/chunklist.m3u8
+http://77.83.117.60:8888/02_2sporthd3_720p/chunklist.m3u8|User-Agent=stream
 #EXTINF:0 group-title="[WL]SPORTE(24/7)",[$]TRUE SPORTS HD4
-http://77.83.117.60:8888/02_2sporthd4_720p/chunklist.m3u8
+http://77.83.117.60:8888/02_2sporthd4_720p/chunklist.m3u8|User-Agent=stream
 #EXTINF:0 group-title="[WL]SPORTE(24/7)",[$]TRUE SPORTS HD5
-http://77.83.117.60:8888/02_sport5_480p/chunklist.m3u8
+http://77.83.117.60:8888/02_sport5_480p/chunklist.m3u8|User-Agent=stream
 #EXTINF:0 group-title="[WL]SPORTE(24/7)",[$]TRUE SPORTS HD6
-http://77.83.117.60:8888/02_sport6_480p/chunklist.m3u8
+http://77.83.117.60:8888/02_sport6_480p/chunklist.m3u8|User-Agent=stream
 #EXTINF:0 group-title="[WL]SPORTE(24/7)",[$]TRUE SPORTS HD7
-http://77.83.117.60:8888/02_sport7_480p/chunklist.m3u8
+http://77.83.117.60:8888/02_sport7_480p/chunklist.m3u8|User-Agent=stream
 #EXTINF:0 group-title="[WL]SPORTE(24/7)",[$]FOX SPORTS HD
-http://77.83.117.60:8888/02_foxsport_720p/chunklist.m3u8
+http://77.83.117.60:8888/02_foxsport_720p/chunklist.m3u8|User-Agent=stream
 #EXTINF:0 group-title="[WL]SPORTE(24/7)",[$]FOX SPORTS 2HD
-http://77.83.117.60:8888/02_FoxSport2_TH_720p/chunklist.m3u8
+http://77.83.117.60:8888/02_FoxSport2_TH_720p/chunklist.m3u8|User-Agent=stream
 #EXTINF:0 group-title="[WL]SPORTE(24/7)",[$]FOX SPORTS 3HD
-http://77.83.117.60:8888/02_FoxSport3_TH_720p/chunklist.m3u8
+http://77.83.117.60:8888/02_FoxSport3_TH_720p/chunklist.m3u8|User-Agent=stream
 #EXTINF:0 group-title="[WL]SPORTE(24/7)",[$]SPORT TV 1HD
-http://77.83.117.60:8888/02_SPORTTV_1_720p/chunklist.m3u8
+http://77.83.117.60:8888/02_SPORTTV_1_720p/chunklist.m3u8|User-Agent=stream
 #EXTINF:0 group-title="[WL]SPORTE(24/7)",[$]SPORT TV 2HD
-http://77.83.117.60:8888/02_SPORTTV_2_720p/chunklist.m3u8
+http://77.83.117.60:8888/02_SPORTTV_2_720p/chunklist.m3u8|User-Agent=stream
 #EXTINF:0 group-title="[WL]SPORTE(24/7)",[$]SPORT TV 3HD
-http://77.83.117.60:8888/02_SPORTTV_3_720p/chunklist.m3u8
+http://77.83.117.60:8888/02_SPORTTV_3_720p/chunklist.m3u8|User-Agent=stream
 #EXTINF:0 group-title="[WL]SPORTE(24/7)",[$]SPORT TV 4HD
-http://77.83.117.60:8888/02_SPORTTV_4_720p/chunklist.m3u8
+http://77.83.117.60:8888/02_SPORTTV_4_720p/chunklist.m3u8|User-Agent=stream
 #EXTINF:0 group-title="[WL]SPORTE(24/7)",[$]SPORT TV 5HD
-http://77.83.117.60:8888/02_SPORTTV_5_720p/chunklist.m3u8
+http://77.83.117.60:8888/02_SPORTTV_5_720p/chunklist.m3u8|User-Agent=stream
 #EXTINF:0 group-title="[WL]SPORTE(24/7)",[$]BT SPORT 1HD
-http://77.83.117.60:8888/02_BTSPORTHD_1_720p/chunklist.m3u8
+http://77.83.117.60:8888/02_BTSPORTHD_1_720p/chunklist.m3u8|User-Agent=stream
 #EXTINF:0 group-title="[WL]SPORTE(24/7)",[$]BT SPORT 2HD
-http://77.83.117.60:8888/02_BTSPORTHD_2_720p/chunklist.m3u8
+http://77.83.117.60:8888/02_BTSPORTHD_2_720p/chunklist.m3u8|User-Agent=stream
 #EXTINF:0 group-title="[WL]SPORTE(24/7)",[$]NBA HD
-http://77.83.117.60:8888/02_nbahd_720p/chunklist.m3u8
+http://77.83.117.60:8888/02_nbahd_720p/chunklist.m3u8|User-Agent=stream
 #EXTINF:0 group-title="[WL]SPORTE(24/7)",[$]TENNIS HD
-http://77.83.117.60:8888/02_TennisHD_720p/chunklist.m3u8
+http://77.83.117.60:8888/02_TennisHD_720p/chunklist.m3u8|User-Agent=stream
 #EXTINF:0 group-title="[WL]SPORTE(24/7)",[$]EPT SPORTS HD
-https://ert-live-bcbs15228.siliconweb.com/media/ert_sports_ww/ert_sports_wwhigh.m3u8
+https://ert-live-bcbs15228.siliconweb.com/media/ert_sports_ww/ert_sports_wwhigh.m3u8|User-Agent=stream
 #EXTINF:0 group-title="[WL]SPORTE(24/7)",[$]GOLF HD
-http://77.83.117.60:8888/02_golfhd_720p/chunklist.m3u8
+http://77.83.117.60:8888/02_golfhd_720p/chunklist.m3u8|User-Agent=stream
 #EXTINF:0 group-title="[WL]SPORTE(24/7)",[$]T SPORTS HD
-http://77.83.117.60:8888/02_T_Sports_480p/chunklist.m3u8
+http://77.83.117.60:8888/02_T_Sports_480p/chunklist.m3u8|User-Agent=stream
 
 #EXTINF:0 group-title="[AL]SPORTE ITALIANE",[$]Sky Sport 24 HD
 http://skyhd-iptv.com:2095/sarandetv/MuyGXoytPN/635
@@ -1307,63 +1259,63 @@ http://skyhd-iptv.com:2095/sarandetv/MuyGXoytPN/981
 http://skyhd-iptv.com:2095/sarandetv/MuyGXoytPN/980
 
 #EXTINF:0 group-title="[TL]SPORTE TAJLANDEZE",[$]ASTRO ARENA HD 
-http://50.7.161.82:8278/streams/d/Arena/playlist.m3u8
+http://50.7.161.82:8278/streams/d/Arena/playlist.m3u8|User-Agent=stream
 #EXTINF:0 group-title="[TL]SPORTE TAJLANDEZE",[$]ASTRO SUPERSPORT HD 
-http://198.16.106.58:8278/streams/d/Assp1/playlist.m3u8
+http://198.16.106.58:8278/streams/d/Assp1/playlist.m3u8|User-Agent=stream
 #EXTINF:0 group-title="[TL]SPORTE TAJLANDEZE",[$]ASTRO SUPERSPORT 2HD 
-http://198.16.106.58:8278/streams/d/Assp2/playlist.m3u8
+http://198.16.106.58:8278/streams/d/Assp2/playlist.m3u8|User-Agent=stream
 #EXTINF:0 group-title="[TL]SPORTE TAJLANDEZE",[$]ASTRO SUPERSPORT 3HD
-http://198.16.106.58:8278/streams/d/Assp3/playlist.m3u8
+http://198.16.106.58:8278/streams/d/Assp3/playlist.m3u8|User-Agent=stream
 #EXTINF:0 group-title="[TL]SPORTE TAJLANDEZE",[$]ASTRO SUPERSPORT 4HD
-http://198.16.106.58:8278/streams/d/Assp4/playlist.m3u8
+http://198.16.106.58:8278/streams/d/Assp4/playlist.m3u8|User-Agent=stream
 #EXTINF:0 group-title="[TL]SPORTE TAJLANDEZE",[$]BEIN SPORTS 1HD 
-https://www.livedoomovies.com/02_epl1_720p_UK/chunklist.m3u8
+https://www.livedoomovies.com/02_epl1_720p_UK/chunklist.m3u8|User-Agent=stream
 #EXTINF:0 group-title="[TL]SPORTE TAJLANDEZE",[$]BEIN SPORTS 2HD
-https://www.livedoomovies.com/02_epl2_720p_UK/chunklist.m3u8
+https://www.livedoomovies.com/02_epl2_720p_UK/chunklist.m3u8|User-Agent=stream
 #EXTINF:0 group-title="[TL]SPORTE TAJLANDEZE",[$]TRUE PREMIER 1HD 
-https://www.livedoomovies.com/02_PremierHD1_720p/chunklist.m3u8
+https://www.livedoomovies.com/02_PremierHD1_720p/chunklist.m3u8|User-Agent=stream
 #EXTINF:0 group-title="[TL]SPORTE TAJLANDEZE",[$]TRUE PREMIER 2HD 
-https://www.livedoomovies.com/02_PremierHD2_720p/chunklist.m3u8
+https://www.livedoomovies.com/02_PremierHD2_720p/chunklist.m3u8|User-Agent=stream
 #EXTINF:0 group-title="[TL]SPORTE TAJLANDEZE",[$]TRUE PREMIER 3HD 
-https://www.livedoomovies.com/02_PremierHD3_720p/chunklist.m3u8
+https://www.livedoomovies.com/02_PremierHD3_720p/chunklist.m3u8|User-Agent=stream
 #EXTINF:0 group-title="[TL]SPORTE TAJLANDEZE",[$]TRUE PREMIER 4HD 
-https://www.livedoomovies.com/02_PremierHD4_720p/chunklist.m3u8
+https://www.livedoomovies.com/02_PremierHD4_720p/chunklist.m3u8|User-Agent=stream
 #EXTINF:0 group-title="[TL]SPORTE TAJLANDEZE",[$]TRUE SPORTS HD 
-https://www.livedoomovies.com/02_2sporthd1_720p/chunklist.m3u8
+https://www.livedoomovies.com/02_2sporthd1_720p/chunklist.m3u8|User-Agent=stream
 #EXTINF:0 group-title="[TL]SPORTE TAJLANDEZE",[$]TRUE SPORTS HD2 
-https://www.livedoomovies.com/02_2sporthd2_720p/chunklist.m3u8
+https://www.livedoomovies.com/02_2sporthd2_720p/chunklist.m3u8|User-Agent=stream
 #EXTINF:0 group-title="[TL]SPORTE TAJLANDEZE",[$]TRUE SPORTS HD3 
-https://www.livedoomovies.com/02_2sporthd3_720p/chunklist.m3u8
+https://www.livedoomovies.com/02_2sporthd3_720p/chunklist.m3u8|User-Agent=stream
 #EXTINF:0 group-title="[TL]SPORTE TAJLANDEZE",[$]TRUE SPORTS HD4
-https://www.livedoomovies.com/02_2sporthd4_720p/chunklist.m3u8
+https://www.livedoomovies.com/02_2sporthd4_720p/chunklist.m3u8|User-Agent=stream
 #EXTINF:0 group-title="[TL]SPORTE TAJLANDEZE",[$]TRUE SPORTS HD5
-https://www.livedoomovies.com/02_sport5_480p/chunklist.m3u8
+https://www.livedoomovies.com/02_sport5_480p/chunklist.m3u8|User-Agent=stream
 #EXTINF:0 group-title="[TL]SPORTE TAJLANDEZE",[$]TRUE SPORTS HD6
-https://www.livedoomovies.com/02_sport6_480p/chunklist.m3u8
+https://www.livedoomovies.com/02_sport6_480p/chunklist.m3u8|User-Agent=stream
 #EXTINF:0 group-title="[TL]SPORTE TAJLANDEZE",[$]TRUE SPORTS HD7
-https://www.livedoomovies.com/02_sport7_480p/chunklist.m3u8
+https://www.livedoomovies.com/02_sport7_480p/chunklist.m3u8|User-Agent=stream
 #EXTINF:0 group-title="[TL]SPORTE TAJLANDEZE",[$]FOX SPORTS HD
-https://www.livedoomovies.com/02_foxsport_720p/chunklist.m3u8
+https://www.livedoomovies.com/02_foxsport_720p/chunklist.m3u8|User-Agent=stream
 #EXTINF:0 group-title="[TL]SPORTE TAJLANDEZE",[$]FOX SPORTS 2HD 
-https://www.livedoomovies.com/02_FoxSport2_TH_720p/chunklist.m3u8
+https://www.livedoomovies.com/02_FoxSport2_TH_720p/chunklist.m3u8|User-Agent=stream
 #EXTINF:0 group-title="[TL]SPORTE TAJLANDEZE",[$]FOX SPORTS 3HD
-https://www.livedoomovies.com/02_FoxSport3_TH_720p/chunklist.m3u8
+https://www.livedoomovies.com/02_FoxSport3_TH_720p/chunklist.m3u8|User-Agent=stream
 #EXTINF:0 group-title="[TL]SPORTE TAJLANDEZE",[$]SPORT TV 1HD 
-https://www.livedoomovies.com/02_SPORTTV_1_720p/chunklist.m3u8
+https://www.livedoomovies.com/02_SPORTTV_1_720p/chunklist.m3u8|User-Agent=stream
 #EXTINF:0 group-title="[TL]SPORTE TAJLANDEZE",[$]SPORT TV 2HD
-https://www.livedoomovies.com/02_SPORTTV_2_720p/chunklist.m3u8
+https://www.livedoomovies.com/02_SPORTTV_2_720p/chunklist.m3u8|User-Agent=stream
 #EXTINF:0 group-title="[TL]SPORTE TAJLANDEZE",[$]SPORT TV 3HD
-https://www.livedoomovies.com/02_SPORTTV_3_720p/chunklist.m3u8
+https://www.livedoomovies.com/02_SPORTTV_3_720p/chunklist.m3u8|User-Agent=stream
 #EXTINF:0 group-title="[TL]SPORTE TAJLANDEZE",[$]SPORT TV 4HD
-https://www.livedoomovies.com/02_SPORTTV_4_720p/chunklist.m3u8
+https://www.livedoomovies.com/02_SPORTTV_4_720p/chunklist.m3u8|User-Agent=stream
 #EXTINF:0 group-title="[TL]SPORTE TAJLANDEZE",[$]SPORT TV 5HD
-https://www.livedoomovies.com/02_SPORTTV_5_720p/chunklist.m3u8
+https://www.livedoomovies.com/02_SPORTTV_5_720p/chunklist.m3u8|User-Agent=stream
 #EXTINF:0 group-title="[TL]SPORTE TAJLANDEZE",[$]BT SPORT 1HD
-https://www.livedoomovies.com/02_BTSPORTHD_1_720p/chunklist.m3u8
+https://www.livedoomovies.com/02_BTSPORTHD_1_720p/chunklist.m3u8|User-Agent=stream
 #EXTINF:0 group-title="[TL]SPORTE TAJLANDEZE",[$]BT SPORT 2HD
-https://www.livedoomovies.com/02_BTSPORTHD_2_720p/chunklist.m3u8
+https://www.livedoomovies.com/02_BTSPORTHD_2_720p/chunklist.m3u8|User-Agent=stream
 #EXTINF:0 group-title="[TL]SPORTE TAJLANDEZE",[$]NBA HD
-https://www.livedoomovies.com/02_nbahd_720p/chunklist.m3u8
+https://www.livedoomovies.com/02_nbahd_720p/chunklist.m3u8|User-Agent=stream
 
 #EXTINF:0 group-title="[IT]KANALE ITALIANE",Rai 1 HD
 #EXTVLCOPT:network-caching=1000

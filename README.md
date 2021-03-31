@@ -2688,6 +2688,33 @@ https://videos.files.wordpress.com/NE1TMGmv/ilkask11-1_mp4_std.mp4
 #EXTINF:-1 group-title="[AL]SERIALE(TURKE)" tvg-logo="https://i.imgur.com/RmJU3kB.jpg",[DASHURI E PARË] EP.12 [$]
 https://videos.files.wordpress.com/r5bS3olH/ilkask12_mp4_dvd.mp4
 
+#EXTINF:-1 group-title="[AL]SERIALE(TURKE)" tvg-logo="https://i.imgur.com/HOheC6V.png",[GABIMET E BABAIT] EP.1 [$]
+https://videos.files.wordpress.com/jfy8NziI/gabimet1_mp4_dvd.mp4
+#EXTINF:-1 group-title="[AL]SERIALE(TURKE)" tvg-logo="https://i.imgur.com/HOheC6V.png",[GABIMET E BABAIT] EP.2 [$]
+https://videos.files.wordpress.com/bBD0BljK/gabimet2_mp4_dvd.mp4
+#EXTINF:-1 group-title="[AL]SERIALE(TURKE)" tvg-logo="https://i.imgur.com/HOheC6V.png",[GABIMET E BABAIT] EP.3 [$]
+https://videos.files.wordpress.com/ClFN5yRC/gabimet3_mp4_dvd.mp4
+#EXTINF:-1 group-title="[AL]SERIALE(TURKE)" tvg-logo="https://i.imgur.com/HOheC6V.png",[GABIMET E BABAIT] EP.4 [$]
+https://videos.files.wordpress.com/jnjwnIPI/gabimet4-1_mp4_dvd.mp4
+#EXTINF:-1 group-title="[AL]SERIALE(TURKE)" tvg-logo="https://i.imgur.com/HOheC6V.png",[GABIMET E BABAIT] EP.5 [$]
+https://videos.files.wordpress.com/bIC5wHw2/gabimet5-1_mp4_dvd.mp4
+#EXTINF:-1 group-title="[AL]SERIALE(TURKE)" tvg-logo="https://i.imgur.com/HOheC6V.png",[GABIMET E BABAIT] EP.6 [$]
+https://videos.files.wordpress.com/969zpkSO/gabimet6_mp4_dvd.mp4
+#EXTINF:-1 group-title="[AL]SERIALE(TURKE)" tvg-logo="https://i.imgur.com/HOheC6V.png",[GABIMET E BABAIT] EP.7 [$]
+https://videos.files.wordpress.com/IRe1NYcV/gabimet7_mp4_dvd.mp4
+#EXTINF:-1 group-title="[AL]SERIALE(TURKE)" tvg-logo="https://i.imgur.com/HOheC6V.png",[GABIMET E BABAIT] EP.8 [$]
+https://videos.files.wordpress.com/RnmRJI9M/gabimet8_mp4_dvd.mp4
+#EXTINF:-1 group-title="[AL]SERIALE(TURKE)" tvg-logo="https://i.imgur.com/HOheC6V.png",[GABIMET E BABAIT] EP.9 [$]
+https://videos.files.wordpress.com/NbdVulDM/gabimet9_mp4_dvd.mp4
+#EXTINF:-1 group-title="[AL]SERIALE(TURKE)" tvg-logo="https://i.imgur.com/HOheC6V.png",[GABIMET E BABAIT] EP.10 [$]
+https://videos.files.wordpress.com/Eyf5hQXX/gabimet10_mp4_dvd.mp4
+#EXTINF:-1 group-title="[AL]SERIALE(TURKE)" tvg-logo="https://i.imgur.com/HOheC6V.png",[GABIMET E BABAIT] EP.11 [$]
+https://videos.files.wordpress.com/Y7SkIrDp/gabimet11_mp4_dvd.mp4
+#EXTINF:-1 group-title="[AL]SERIALE(TURKE)" tvg-logo="https://i.imgur.com/HOheC6V.png",[GABIMET E BABAIT] EP.12 [$]
+https://videos.files.wordpress.com/hvII4jQ0/gabimet12_mp4_dvd.mp4
+#EXTINF:-1 group-title="[AL]SERIALE(TURKE)" tvg-logo="https://i.imgur.com/HOheC6V.png",[GABIMET E BABAIT] EP.13 [$]
+https://videos.files.wordpress.com/7om2T6yn/gabimet13_mp4_dvd.mp4
+
 #EXTINF:-1 group-title="[AL]SERIALE(TURKE)" tvg-logo="https://i.imgur.com/h2nZhtC.png",[FUQIA E DASHURISE] EP.1 [$]
 https://videos.files.wordpress.com/zYl1no8B/sev1.1_mp4_dvd.mp4
 #EXTINF:-1 group-title="[AL]SERIALE(TURKE)" tvg-logo="https://i.imgur.com/h2nZhtC.png",[FUQIA E DASHURISE] EP.2 [$]

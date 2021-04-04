@@ -136,9 +136,11 @@ https://t2.tvmak.com/tv/STARPLUS.m3u8
 #EXTINF:-1 group-title="[AL]LOKALE" tvg-logo="https://i.imgur.com/uquIZq7.png",[$]TV1 CHANNEL HD
 https://t2.tvmak.com/tv/TV1CHANNEL.m3u8
 #EXTINF:-1 group-title="[AL]LOKALE" tvg-logo="https://i.imgur.com/4zSlxA5.png",[$]TV ROZAFA HD
+http://93.157.62.180/RozafaTV/index.m3u8|User-Agent=stream
+#EXTINF:-1 group-title="[AL]LOKALE" tvg-logo="https://i.imgur.com/4zSlxA5.png",[$]TV ROZAFA 
 https://t2.tvmak.com/tv/TVROZAFA.m3u8
-#EXTINF:-1 group-title="[AL]LOKALE" tvg-logo="https://i.imgur.com/wiuag61.png",[$]NTV
-https://nesertv.live/ntv/livesream/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="[AL]LOKALE" tvg-logo="https://i.imgur.com/wiuag61.png",[$]NESER TV
+https://nesertv.live/ntv/livestream/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="[AL]LOKALE" tvg-logo="https://i.imgur.com/NnXH4nt.png",[$]ALBDREAMS
 http://live.albavision.net:1123/live/albdreams.m3u8
 #EXTINF:-1 group-title="[AL]LOKALE" tvg-logo="http://www.albepg.com/tvlogi/ALBUK%20TV.png",[$]ALB UK HD
@@ -599,6 +601,21 @@ http://46.19.226.132:4000/play/a067
 http://46.19.226.132:4000/play/a052
 #EXTINF:0 group-title="[AL]TRING FILM" tvg-logo="https://i.imgur.com/4X6fWq4.png",[$]SHQIP [TRING]
 http://46.19.226.132:4000/play/a02g
+
+#EXTINF:0 group-title="[AL]M FILM" tvg-logo="https://i.ibb.co/1JC96z5/film.png",[$]M FILM HD
+http://meti-tv.xyz:25461/MetiTVakanalet/svOVWvluBT/1
+#EXTINF:0 group-title="[AL]M FILM" tvg-logo="https://i.ibb.co/1JC96z5/film.png",[$]M FILM 2HD
+http://meti-tv.xyz:25461/MetiTVakanalet/svOVWvluBT/68
+#EXTINF:0 group-title="[AL]M FILM" tvg-logo="https://i.ibb.co/W3m6kY6/aksion.png",[$]M AKSION HD
+http://meti-tv.xyz:25461/MetiTVakanalet/svOVWvluBT/2
+#EXTINF:0 group-title="[AL]M FILM" tvg-logo="https://i.ibb.co/qFXhVR9/shqip.png",[$]M SHQIP HD
+http://meti-tv.xyz:25461/MetiTVakanalet/svOVWvluBT/3
+#EXTINF:0 group-title="[AL]M FILM" tvg-logo="https://i.ibb.co/8rXspWs/porto.png",[$]M PORTOKALLI HD
+http://meti-tv.xyz:25461/MetiTVakanalet/svOVWvluBT/18
+#EXTINF:0 group-title="[AL]M FILM" tvg-logo="https://i.ibb.co/sChQM2q/music.png",[$]M MUSIC HD
+http://meti-tv.xyz:25461/MetiTVakanalet/svOVWvluBT/20
+#EXTINF:0 group-title="[AL]M FILM" tvg-logo="https://i.ibb.co/QHFf1wq/GJ.png",[$]M GJURME SHQIPTARE HD
+http://meti-tv.xyz:25461/MetiTVakanalet/svOVWvluBT/19
 
 #EXTINF:0 group-title="[AL]DIGI FILM" tvg-logo="https://i.ibb.co/h9kTL1Q/xpre1.png",[$]PREMIUM 1HD[XTREM] 
 http://62.210.209.100:86/live/play/mosulodhkot/79.ts|User-Agent=mosulodh

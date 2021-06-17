@@ -2282,21 +2282,25 @@ http://f4.tvxweb.net:8082/24272/playlist.m3u8
 #EXTINF:0 group-title="[AL]POPCORN FILM" tvg-logo="https://i.imgur.com/qNWKQ9U.png",[$]POPCORN 10HD
 http://f4.tvxweb.net:8082/24273/playlist.m3u8
 
+#EXTINF:0 group-title="[AL]EURO 2020" tvg-logo="https://i.imgur.com/r0nfGQZ.png",[$]SPORT NEWS HD
+http://tigerfights.xyz:2052/t7xSeark/oZGmqdb0/2875425
 #EXTINF:0 group-title="[AL]EURO 2020" tvg-logo="https://i.imgur.com/r0nfGQZ.png",[$]SPORT 1HD
 http://45.67.159.46:8081/live/s4/playlist.m3u8|User-Agent=stream
 #EXTINF:0 group-title="[AL]EURO 2020" tvg-logo="https://i.imgur.com/r0nfGQZ.png",[$]SPORT 2HD
 http://45.67.159.46:8081/live/s2/playlist.m3u8|User-Agent=stream
 #EXTINF:0 group-title="[AL]EURO 2020" tvg-logo="https://i.imgur.com/r0nfGQZ.png",[$]SPORT 3HD
-http://51.89.195.111:8880/ss2/playlist.m3u8|User-Agent=stream
+http://93.157.62.180/Supersport2/index.m3u8|User-Agent=stream
 #EXTINF:0 group-title="[AL]EURO 2020" tvg-logo="https://i.imgur.com/r0nfGQZ.png",[$]SPORT 4HD
-http://212.224.98.209:2200/ALB-EX/Super_Sport_2_FHD_VIP_AL-alb/tracks-v1a1/mono.m3u8?token=null
+http://51.89.195.111:8880/ss2/playlist.m3u8|User-Agent=stream
 #EXTINF:0 group-title="[AL]EURO 2020" tvg-logo="https://i.imgur.com/r0nfGQZ.png",[$]SPORT 5HD
-https://sport7.ws/lba/OTE3MTQyMjczMzliMjQwNmQ1Y2Y5ODIxYWI1OWU5YmE=/g2/ss2al.m3u8?token=OTE3MTQyMjczMzliMjQwNmQ1Y2Y5ODIxYWI1OWU5YmE=&id=NmU1YjRlZTE1MDcyNWE5MWNmYmY1ZDZlOGE0MjY0N2E=&vip=1579469930&dip=NzhlMTgxNDQzYjQ3MzBiZjJhMDkwMjc2Y2JiZTQxYjU=&pip=ZjY2ZDY0ZDU1ZjAxNjBlMTJlN2QwMTZiOGJiMjhjNTE=&hip=N2EwMTZjYmNjODZhNzhmMDc5YTMzODM3OTY5NDYyMWQ=
+http://212.224.98.209:2200/ALB-EX/Super_Sport_2_FHD_VIP_AL-alb/tracks-v1a1/mono.m3u8?token=null
 #EXTINF:0 group-title="[AL]EURO 2020" tvg-logo="https://i.imgur.com/r0nfGQZ.png",[$]SPORT 6HD
-http://45.67.159.46:8081/live/rtsh1/playlist.m3u8|User-Agent=stream
+https://sport7.ws/lba/OTE3MTQyMjczMzliMjQwNmQ1Y2Y5ODIxYWI1OWU5YmE=/g2/ss2al.m3u8?token=OTE3MTQyMjczMzliMjQwNmQ1Y2Y5ODIxYWI1OWU5YmE=&id=NmU1YjRlZTE1MDcyNWE5MWNmYmY1ZDZlOGE0MjY0N2E=&vip=1579469930&dip=NzhlMTgxNDQzYjQ3MzBiZjJhMDkwMjc2Y2JiZTQxYjU=&pip=ZjY2ZDY0ZDU1ZjAxNjBlMTJlN2QwMTZiOGJiMjhjNTE=&hip=N2EwMTZjYmNjODZhNzhmMDc5YTMzODM3OTY5NDYyMWQ=
 #EXTINF:0 group-title="[AL]EURO 2020" tvg-logo="https://i.imgur.com/r0nfGQZ.png",[$]SPORT 7HD
-http://45.67.159.46:8081/live/rtshsport/playlist.m3u8|User-Agent=stream
+http://93.157.62.180/RTSH1/index.m3u8|User-Agent=stream
 #EXTINF:0 group-title="[AL]EURO 2020" tvg-logo="https://i.imgur.com/r0nfGQZ.png",[$]SPORT 8HD
+http://93.157.62.180/RTSHSport/index.m3u8|User-Agent=stream
+#EXTINF:0 group-title="[AL]EURO 2020" tvg-logo="https://i.imgur.com/r0nfGQZ.png",[$]SPORT 9HD
 http://84.22.33.254/unicast.rtk1/video.m3u8?token=tv
 
 #EXTINF:0 group-title="[AL]SPORTE" tvg-logo="https://i.ibb.co/2hVZhdw/s1.jpg",[$]SUPER SPORT 1HD
@@ -2416,6 +2420,67 @@ http://live-k2302-kbp.1plus1.video/sport/smil:sport.smil/chunklist_b6000000.m3u8
 https://cdn1.mobiletv.bg/T8/eurosport/es_794613_850k.m3u8|User-Agent=stream
 #EXTINF:0 group-title="[AL]SPORTE(VIP)" tvg-logo="https://i.imgur.com/83HKfdS.jpg",[$]EUROSPORT 2HD
 https://cdn1.mobiletv.bg/T3/eurosport2/eurosport2_794613_850k.m3u8|User-Agent=stream
+
+#EXTINF:-1 group-title="[AL]SPORTE(LIVE)" tvg-logo="https://i.imgur.com/BHdhn9P.jpg",[$]SUPER SPORT 1HD VIP
+http://tigerfights.xyz:2052/t7xSeark/oZGmqdb0/2491684
+#EXTINF:-1 group-title="[AL]SPORTE(LIVE)" tvg-logo="https://i.imgur.com/NLnmKZG.jpg",[$]SUPER SPORT 2HD VIP
+http://tigerfights.xyz:2052/t7xSeark/oZGmqdb0/2491687
+#EXTINF:-1 group-title="[AL]SPORTE(LIVE)" tvg-logo="https://i.imgur.com/6NMCdLt.jpg",[$]SUPER SPORT 3HD VIP
+http://tigerfights.xyz:2052/t7xSeark/oZGmqdb0/2491688
+#EXTINF:-1 group-title="[AL]SPORTE(LIVE)" tvg-logo="https://i.imgur.com/F8P6IEb.jpg",[$]SUPER SPORT 4HD VIP
+http://tigerfights.xyz:2052/t7xSeark/oZGmqdb0/2491690
+#EXTINF:-1 group-title="[AL]SPORTE(LIVE)" tvg-logo="https://i.imgur.com/ARH0gxJ.jpg",[$]SUPER SPORT 5HD VIP
+http://tigerfights.xyz:2052/t7xSeark/oZGmqdb0/2491693
+#EXTINF:-1 group-title="[AL]SPORTE(LIVE)" tvg-logo="https://i.imgur.com/u0XAOcN.jpg",[$]SUPER SPORT 6HD VIP
+http://tigerfights.xyz:2052/t7xSeark/oZGmqdb0/2491695
+#EXTINF:-1 group-title="[AL]SPORTE(LIVE)" tvg-logo="https://i.imgur.com/pcjuNdd.jpg",[$]SUPER SPORT 7HD VIP
+http://tigerfights.xyz:2052/t7xSeark/oZGmqdb0/2491696
+#EXTINF:-1 group-title="[AL]SPORTE(LIVE)" tvg-logo="https://i.imgur.com/Ij2qZNW.png",[$]SUPER SPORT 1HD
+http://tigerfights.xyz:2052/t7xSeark/oZGmqdb0/2491685
+#EXTINF:-1 group-title="[AL]SPORTE(LIVE)" tvg-logo="https://i.imgur.com/0tTfJL9.png",[$]SUPER SPORT 2HD
+http://tigerfights.xyz:2052/t7xSeark/oZGmqdb0/2491686
+#EXTINF:-1 group-title="[AL]SPORTE(LIVE)" tvg-logo="https://i.imgur.com/m03qtgP.png",[$]SUPER SPORT 3HD
+http://tigerfights.xyz:2052/t7xSeark/oZGmqdb0/2491689
+#EXTINF:-1 group-title="[AL]SPORTE(LIVE)" tvg-logo="https://i.imgur.com/wxCPEjv.png",[$]SUPER SPORT 4HD
+http://tigerfights.xyz:2052/t7xSeark/oZGmqdb0/2491691
+#EXTINF:-1 group-title="[AL]SPORTE(LIVE)" tvg-logo="https://i.imgur.com/R7VsTVA.png",[$]SUPER SPORT 5HD
+http://tigerfights.xyz:2052/t7xSeark/oZGmqdb0/2491692
+#EXTINF:-1 group-title="[AL]SPORTE(LIVE)" tvg-logo="https://i.imgur.com/bMwbDys.png",[$]SUPER SPORT 6HD
+http://tigerfights.xyz:2052/t7xSeark/oZGmqdb0/2491694
+#EXTINF:-1 group-title="[AL]SPORTE(LIVE)" tvg-logo="https://i.imgur.com/vwKOrPL.jpg",[$]TRING SPORT 1HD VIP
+http://tigerfights.xyz:2052/t7xSeark/oZGmqdb0/2491736
+#EXTINF:-1 group-title="[AL]SPORTE(LIVE)" tvg-logo="https://i.imgur.com/YWkDzDf.jpg",[$]TRING SPORT 2HD VIP
+http://tigerfights.xyz:2052/t7xSeark/oZGmqdb0/2491737
+#EXTINF:-1 group-title="[AL]SPORTE(LIVE)" tvg-logo="https://i.imgur.com/rbheu6A.jpg",[$]TRING SPORT 3HD VIP
+http://tigerfights.xyz:2052/t7xSeark/oZGmqdb0/2491740
+#EXTINF:-1 group-title="[AL]SPORTE(LIVE)" tvg-logo="https://i.imgur.com/hyQaDfB.jpg",[$]TRING SPORT 4HD VIP
+http://tigerfights.xyz:2052/t7xSeark/oZGmqdb0/2491742
+#EXTINF:-1 group-title="[AL]SPORTE(LIVE)" tvg-logo="https://i.ibb.co/r2LJx8x/SPORT-1.png",[$]TRING SPORT 1HD
+http://tigerfights.xyz:2052/t7xSeark/oZGmqdb0/2491735
+#EXTINF:-1 group-title="[AL]SPORTE(LIVE)" tvg-logo="https://i.ibb.co/z8Sw8gH/SPORT-2.png",[$]TRING SPORT 2HD
+http://tigerfights.xyz:2052/t7xSeark/oZGmqdb0/2491738
+#EXTINF:-1 group-title="[AL]SPORTE(LIVE)" tvg-logo="https://i.ibb.co/gdqNb22/SPORT-3.png",[$]TRING SPORT 3HD
+http://tigerfights.xyz:2052/t7xSeark/oZGmqdb0/2491739
+#EXTINF:-1 group-title="[AL]SPORTE(LIVE)" tvg-logo="https://i.imgur.com/wvan0wj.png",[$]TRING SPORT 4HD
+http://tigerfights.xyz:2052/t7xSeark/oZGmqdb0/2491741
+#EXTINF:-1 group-title="[AL]SPORTE(LIVE)" tvg-logo="https://i.imgur.com/51IfSOT.jpg",[$]K SPORT 1HD
+http://tigerfights.xyz:2052/t7xSeark/oZGmqdb0/2491538
+#EXTINF:-1 group-title="[AL]SPORTE(LIVE)" tvg-logo="https://i.imgur.com/X5bw6ir.jpg",[$]K SPORT 2HD
+http://tigerfights.xyz:2052/t7xSeark/oZGmqdb0/2491539
+#EXTINF:-1 group-title="[AL]SPORTE(LIVE)" tvg-logo="https://i.imgur.com/PxRgD1T.jpg",[$]K SPORT 3HD
+http://tigerfights.xyz:2052/t7xSeark/oZGmqdb0/2491540
+#EXTINF:-1 group-title="[AL]SPORTE(LIVE)" tvg-logo="https://i.imgur.com/HsVI0DL.jpg",[$]K SPORT 4HD
+http://tigerfights.xyz:2052/t7xSeark/oZGmqdb0/2491541
+#EXTINF:-1 group-title="[AL]SPORTE(LIVE)" tvg-logo="https://i.imgur.com/xvTU1J5.jpg",[$]ART SPORT 1HD 
+http://tigerfights.xyz:2052/t7xSeark/oZGmqdb0/2491460
+#EXTINF:-1 group-title="[AL]SPORTE(LIVE)" tvg-logo="https://i.imgur.com/MRILEyD.jpg",[$]ART SPORT 2HD 
+http://tigerfights.xyz:2052/t7xSeark/oZGmqdb0/2491461
+#EXTINF:-1 group-title="[AL]SPORTE(LIVE)" tvg-logo="https://i.imgur.com/9d6klTu.jpg",[$]ART SPORT 3HD
+http://tigerfights.xyz:2052/t7xSeark/oZGmqdb0/2491462
+#EXTINF:-1 group-title="[AL]SPORTE(LIVE)" tvg-logo="https://i.imgur.com/2KOyX5s.jpg",[$]EUROSPORT 1 HD
+http://tigerfights.xyz:2052/t7xSeark/oZGmqdb0/2491498
+#EXTINF:-1 group-title="[AL]SPORTE(LIVE)" tvg-logo="https://i.imgur.com/7D9744z.jpg",[$]EUROSPORT 2 HD
+http://tigerfights.xyz:2052/t7xSeark/oZGmqdb0/2491500
 
 #EXTINF:0 group-title="[AL]TIBO SPORTS" tvg-logo="https://i.ibb.co/2hVZhdw/s1.jpg",[$]SUPER SPORT 1FHD
 http://212.224.98.209:2200/ALB-EX/Super_Sport_1_FHD_VIP_AL-alb/tracks-v1a1/mono.m3u8?token=null
@@ -9635,3 +9700,73 @@ http://main-vod-edge-1.iptvserver.tv/vodcached/_definst_/mp4:origin/Argo.2012.72
 http://main-vod-edge-1.iptvserver.tv/vodcached/_definst_/mp4:origin/ASecondChance2015WEBRipbuhaypirata_HD.mp4/playlist.m3u8
 #EXTINF:-1 group-title="[UK]FILMA(VOD)" tvg-logo="https://i.imgur.com/b91OZky.png",[$]ASSASSIN
 http://main-vod-edge-1.iptvserver.tv/vodcached/_definst_/mp4:origin/Assassin.2014.HDRip.XViDjuggsETRG_HD.mp4/playlist.m3u8
+
+#EXTINF:-1 group-title="[UK]FILMA KIDS(VOD)" tvg-logo="https://i.imgur.com/sJtGNku.png",[$]101 DALMATIONS
+http://www.deadlyblogger.com/NewRelease/dal1.mp4
+#EXTINF:-1 group-title="[UK]FILMA KIDS(VOD)" tvg-logo="https://i.imgur.com/sJtGNku.png",[$]A CHRISTMAS CAROL
+http://www.deadlyblogger.com/NewRelease/acc2009.mp4
+#EXTINF:-1 group-title="[UK]FILMA KIDS(VOD)" tvg-logo="https://i.imgur.com/sJtGNku.png",[$]A DISNEY CHRISTMAS GIFT
+http://www.deadlyblogger.com/NewRelease/disneyc1.mp4
+#EXTINF:-1 group-title="[UK]FILMA KIDS(VOD)" tvg-logo="https://i.imgur.com/sJtGNku.png",[$]CINDERELLA
+http://www.deadlyblogger.com/NewRelease/cinder1.mp4
+#EXTINF:-1 group-title="[UK]FILMA KIDS(VOD)" tvg-logo="https://i.imgur.com/sJtGNku.png",[$]DUCKTALES: TREASURE OF THE LOST LAMP
+http://www.deadlyblogger.com/NewRelease/ducktales1990.mp4
+#EXTINF:-1 group-title="[UK]FILMA KIDS(VOD)" tvg-logo="https://i.imgur.com/sJtGNku.png",[$]EPIC 
+http://www.deadlyblogger.com/NewRelease/epic1.mp4
+#EXTINF:-1 group-title="[UK]FILMA KIDS(VOD)" tvg-logo="https://i.imgur.com/sJtGNku.png",[$]FINDING NEMO
+http://www.deadlyblogger.com/NewRelease/nemo2003.mp4
+#EXTINF:-1 group-title="[UK]FILMA KIDS(VOD)" tvg-logo="https://i.imgur.com/sJtGNku.png",[$]FROZEN
+http://www.deadlyblogger.com/NewRelease/disneyfrozen.mp4
+#EXTINF:-1 group-title="[UK]FILMA KIDS(VOD)" tvg-logo="https://i.imgur.com/sJtGNku.png",[$]LEGO STAR WARS: THE YODA CHRONICLES
+http://www.deadlyblogger.com/NewRelease/legoyoda1.mp4
+#EXTINF:-1 group-title="[UK]FILMA KIDS(VOD)" tvg-logo="https://i.imgur.com/sJtGNku.png",[$]LION KING
+http://www.deadlyblogger.com/NewRelease/lionking.mp4
+#EXTINF:-1 group-title="[UK]FILMA KIDS(VOD)" tvg-logo="https://i.imgur.com/sJtGNku.png",[$]MICKEY TWICE UPAN A CHRISTMAS
+http://www.deadlyblogger.com/NewRelease/mickeytwice.mp4
+#EXTINF:-1 group-title="[UK]FILMA KIDS(VOD)" tvg-logo="https://i.imgur.com/sJtGNku.png",[$]MICKEY'S CHRISTMAS CAROL
+http://www.deadlyblogger.com/NewRelease/mchristmascarol.mp4
+#EXTINF:-1 group-title="[UK]FILMA KIDS(VOD)" tvg-logo="https://i.imgur.com/sJtGNku.png",[$]MICKEY'S MAGICAL CHRISTMAS
+http://www.deadlyblogger.com/NewRelease/mmagicalchristmas.mp4
+#EXTINF:-1 group-title="[UK]FILMA KIDS(VOD)" tvg-logo="https://i.imgur.com/sJtGNku.png",[$]MICKEY SAVES SANTA
+http://www.deadlyblogger.com/NewRelease/msavessanta.mp4
+#EXTINF:-1 group-title="[UK]FILMA KIDS(VOD)" tvg-logo="https://i.imgur.com/sJtGNku.png",[$]MONSTERS UNIVERSITY
+http://www.deadlyblogger.com/NewRelease/monsters2.mp4
+#EXTINF:-1 group-title="[UK]FILMA KIDS(VOD)" tvg-logo="https://i.imgur.com/sJtGNku.png",[$]MR PEABODY & SHERMAN
+http://www.deadlyblogger.com/NewRelease/sherman2014.mp4
+#EXTINF:-1 group-title="[UK]FILMA KIDS(VOD)" tvg-logo="https://i.imgur.com/sJtGNku.png",[$]MY NEIGHBOR TOTORO
+http://www.deadlyblogger.com/NewRelease/totoro.mp4
+#EXTINF:-1 group-title="[UK]FILMA KIDS(VOD)" tvg-logo="https://i.imgur.com/sJtGNku.png",[$]PETER PAN
+http://www.deadlyblogger.com/NewRelease/pan1.mp4
+#EXTINF:-1 group-title="[UK]FILMA KIDS(VOD)" tvg-logo="https://i.imgur.com/sJtGNku.png",[$]PINOCCHIO
+http://www.deadlyblogger.com/NewRelease/pinco1.mp4
+#EXTINF:-1 group-title="[UK]FILMA KIDS(VOD)" tvg-logo="https://i.imgur.com/sJtGNku.png",[$]RATATOUILLE
+http://www.deadlyblogger.com/NewRelease/ratatouille.mp4
+#EXTINF:-1 group-title="[UK]FILMA KIDS(VOD)" tvg-logo="https://i.imgur.com/sJtGNku.png",[$]RIO 2
+http://www.deadlyblogger.com/NewRelease/rio2.mp4
+#EXTINF:-1 group-title="[UK]FILMA KIDS(VOD)" tvg-logo="https://i.imgur.com/sJtGNku.png",[$]ROBIN HOOD
+http://www.deadlyblogger.com/NewRelease/robinhood1.mp4
+#EXTINF:-1 group-title="[UK]FILMA KIDS(VOD)" tvg-logo="https://i.imgur.com/sJtGNku.png",[$]RUDOLPH THE RED NOSED REINDEER
+http://www.deadlyblogger.com/NewRelease/rednose1964.mp4
+#EXTINF:-1 group-title="[UK]FILMA KIDS(VOD)" tvg-logo="https://i.imgur.com/sJtGNku.png",[$]SLEEPING BEAUTY
+http://www.deadlyblogger.com/NewRelease/beauty1.mp4
+#EXTINF:-1 group-title="[UK]FILMA KIDS(VOD)" tvg-logo="https://i.imgur.com/sJtGNku.png",[$]TANGLED
+http://www.deadlyblogger.com/NewRelease/tangled2010.mp4
+#EXTINF:-1 group-title="[UK]FILMA KIDS(VOD)" tvg-logo="https://i.imgur.com/sJtGNku.png",[$]TARZAN & JANE
+http://www.deadlyblogger.com/NewRelease/tarzanjane.mp4
+#EXTINF:-1 group-title="[UK]FILMA KIDS(VOD)" tvg-logo="https://i.imgur.com/sJtGNku.png",[$]TINKER BELL AND THE PIRATE FAIRY
+http://www.deadlyblogger.com/NewRelease/tinker2014.mp4
+#EXTINF:-1 group-title="[UK]FILMA KIDS(VOD)" tvg-logo="https://i.imgur.com/sJtGNku.png",[$]THE FOX & THE HOUND
+http://www.deadlyblogger.com/NewRelease/thefox.mp4
+#EXTINF:-1 group-title="[UK]FILMA KIDS(VOD)" tvg-logo="https://i.imgur.com/sJtGNku.png",[$]THE JUNGLE BOOK RETURN TO THE JUNGLE
+http://www.deadlyblogger.com/NewRelease/junglebook2013.mp4
+#EXTINF:-1 group-title="[UK]FILMA KIDS(VOD)" tvg-logo="https://i.imgur.com/sJtGNku.png",[$]THE LITTLE MERMAID
+http://www.deadlyblogger.com/NewRelease/mermaid1.mp4
+#EXTINF:-1 group-title="[UK]FILMA KIDS(VOD)" tvg-logo="https://i.imgur.com/sJtGNku.png",[$]THE POLAR EXPRESS
+http://www.deadlyblogger.com/NewRelease/polarexpress2004.mp4
+#EXTINF:-1 group-title="[UK]FILMA KIDS(VOD)" tvg-logo="https://i.imgur.com/sJtGNku.png",[$]TOY STORY OF TERROR
+http://www.deadlyblogger.com/NewRelease/storyterror.mp4
+#EXTINF:-1 group-title="[UK]FILMA KIDS(VOD)" tvg-logo="https://i.imgur.com/sJtGNku.png",[$]THE LEGO MOVIE
+http://www.deadlyblogger.com/NewRelease/legomovie2014.mp4
+#EXTINF:-1 group-title="[UK]FILMA KIDS(VOD)" tvg-logo="https://i.imgur.com/sJtGNku.png",[$]TURBO
+http://www.deadlyblogger.com/NewRelease/turbo.mp4
+
